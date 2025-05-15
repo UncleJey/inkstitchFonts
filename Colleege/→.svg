@@ -1,0 +1,3156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg247"
+   sodipodi:docname="→.svg"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:inkstitch="http://inkstitch.org/namespace">
+  <sodipodi:namedview
+     id="namedview249"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1760"
+     inkscape:document-units="px"
+     inkscape:cx="50.0"
+     inkscape:cy="50.0"
+     inkscape:snap-global="false">
+    <sodipodi:guide
+       position="0,30"
+       orientation="0,1"
+       inkscape:label="baseline"
+       id="guide1191" />
+    <sodipodi:guide
+       position="0,150"
+       orientation="0,1"
+       inkscape:label="ascender"
+       id="guide1193" />
+    <sodipodi:guide
+       position="0,55"
+       orientation="0,1"
+       inkscape:label="caps"
+       id="guide1195" />
+    <sodipodi:guide
+       position="0,45"
+       orientation="0,1"
+       inkscape:label="xheight"
+       id="guide1197" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,1"
+       inkscape:label="descender"
+       id="guide1199" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,1"
+       inkscape:label="baseline"
+       id="guide1484" />
+    <sodipodi:guide
+       position="0,80"
+       orientation="0,1"
+       inkscape:label="ascender"
+       id="guide1486" />
+    <sodipodi:guide
+       position="0,68"
+       orientation="0,1"
+       inkscape:label="caps"
+       id="guide1488" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,1"
+       inkscape:label="xheight"
+       id="guide1490" />
+    <sodipodi:guide
+       position="0,20"
+       orientation="0,1"
+       inkscape:label="decender"
+       id="guide1492" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2">
+Created by FontForge 20201107 at Sat Feb 26 15:58:48 2022
+ By buzz
+Designed by Matthew Welch and extended by Immature Dawn
+<inkstitch:collapse_len_mm />
+</metadata>
+  <defs
+     id="defs245">
+    <font
+       id="CollegeSlabSC"
+       horiz-adv-x="64">
+      <font-face
+         font-family="College Slab"
+         font-weight="700"
+         font-stretch="normal"
+         units-per-em="100"
+         panose-1="2 6 7 3 2 8 2 15 2 4"
+         ascent="80"
+         descent="-20"
+         cap-height="68"
+         bbox="2 -1 73 68"
+         underline-thickness="8.88672"
+         underline-position="-22.3633"
+         stemh="14"
+         stemv="14"
+         unicode-range="U+0020-2310"
+         id="font-face4" />
+      <missing-glyph
+         id="missing-glyph6" />
+      <glyph
+         glyph-name="zero"
+         unicode="0"
+         horiz-adv-x="51"
+         d="M25 14h7v41h-13v-41h6zM16 0l-11 11v46l11 11h19l11 -11v-46l-11 -11h-19z"
+         id="glyph8" />
+      <glyph
+         glyph-name="one"
+         unicode="1"
+         horiz-adv-x="36"
+         d="M5 7v7h7v34h-7v10l7 10h14v-54h6v-14h-27v7z"
+         id="glyph10" />
+      <glyph
+         glyph-name="two"
+         unicode="2"
+         horiz-adv-x="51"
+         d="M5 17v13l11 11h16v14h-13v-7h-14v9l11 11h19l11 -11v-19l-11 -11h-16v-13h13v7h14v-21h-41v17z"
+         id="glyph12" />
+      <glyph
+         glyph-name="three"
+         unicode="3"
+         horiz-adv-x="50"
+         d="M4 52v5l11 11h19l11 -11v-19l-4 -4l4 -4v-19l-11 -11h-19l-11 11v10h14v-7h14v13h-7v14h7v14h-14v-7h-14v4z"
+         id="glyph14" />
+      <glyph
+         glyph-name="four"
+         unicode="4"
+         horiz-adv-x="47"
+         d="M16 7v7h6v7h-20v13l20 34h14v-34h7v-13h-7v-7h7v-14h-27v7zM20 34h2v10l-5 -10h3z"
+         id="glyph16" />
+      <glyph
+         glyph-name="five"
+         unicode="5"
+         horiz-adv-x="51"
+         d="M20 68h26v-13h-28v-14h17l11 -11v-19l-11 -11h-19l-11 11v10h13v-7h14v13h-16l-11 11v30h15z"
+         id="glyph18" />
+      <glyph
+         glyph-name="six"
+         unicode="6"
+         horiz-adv-x="51"
+         d="M40 48h-8v7h-13v-14h16l11 -11v-19l-11 -11h-19l-11 11v46l11 11h19l11 -11v-9h-6zM25 14h7v13h-13v-13h6z"
+         id="glyph20" />
+      <glyph
+         glyph-name="seven"
+         unicode="7"
+         horiz-adv-x="50"
+         d="M6 7v7h7l20 41h-13v-7h-14v20h41v-13l-21 -41h7v-14h-27v7z"
+         id="glyph22" />
+      <glyph
+         glyph-name="eight"
+         unicode="8"
+         horiz-adv-x="51"
+         d="M46 38l-4 -4l4 -4v-19l-11 -11h-19l-11 11v19l4 4l-4 4v19l11 11h19l11 -11v-19zM32 41v14h-13v-14h13zM32 14v13h-13v-13h13z"
+         id="glyph24" />
+      <glyph
+         glyph-name="nine"
+         unicode="9"
+         horiz-adv-x="50"
+         d="M11 21h7v-7h14v13h-17l-10 11v19l10 11h19l11 -11v-46l-11 -11h-19l-10 11v10h6zM26 55h-9v-14h15v14h-6z"
+         id="glyph26" />
+      <glyph
+         glyph-name="A"
+         unicode="A"
+         horiz-adv-x="71"
+         d="M40 34c-1 4 -2 8 -4 12l-4 -12h8zM29 68h14l17 -54h6v-14h-26v14h6l-2 7h-16l-2 -7h6v-14h-27v14h7z"
+         id="glyph28" />
+      <glyph
+         glyph-name="B"
+         unicode="B"
+         horiz-adv-x="57"
+         d="M5 14h7v41h-7v13h36l12 -11v-19l-7 -4l7 -4v-19l-12 -11h-36v14zM39 41v14h-14v-14h14zM39 14v13h-14v-13h14z"
+         id="glyph30" />
+      <glyph
+         glyph-name="C"
+         unicode="C"
+         horiz-adv-x="50"
+         d="M5 11v46l11 11h19l11 -11v-9h-14v7h-14v-41h14v7h14v-10l-11 -11h-19z"
+         id="glyph32" />
+      <glyph
+         glyph-name="D"
+         unicode="D"
+         horiz-adv-x="57"
+         d="M5 6v8h7v41h-7v13h36l12 -11v-46l-12 -11h-36v6zM30 14h9v41h-14v-41h5z"
+         id="glyph34" />
+      <glyph
+         glyph-name="E"
+         unicode="E"
+         horiz-adv-x="57"
+         d="M5 14h7v41h-7v13h48v-20h-14v7h-14v-14h14v-14h-14v-13h14v7h14v-21h-48v14z"
+         id="glyph36" />
+      <glyph
+         glyph-name="F"
+         unicode="F"
+         horiz-adv-x="57"
+         d="M5 7v7h7v41h-7v13h47v-20h-13v7h-14v-14h14v-14h-14v-13h7v-14h-27v7z"
+         id="glyph38" />
+      <glyph
+         glyph-name="G"
+         unicode="G"
+         horiz-adv-x="50"
+         d="M13 2l-8 9v46l11 11h19l11 -11v-9h-14v7h-13v-41h13v13h-7v14h21v-30l-11 -11h-19z"
+         id="glyph40" />
+      <glyph
+         glyph-name="H"
+         unicode="H"
+         d="M5 14h7v41h-7v13h26v-13h-6v-14h14v14h-6v13h26v-13h-6v-41h6v-14h-26v14h6v13h-14v-13h6v-14h-26v14z"
+         id="glyph42" />
+      <glyph
+         glyph-name="I"
+         unicode="I"
+         horiz-adv-x="36"
+         d="M5 7v7h7v41h-7v13h26v-13h-6v-41h6v-14h-26v7z"
+         id="glyph44" />
+      <glyph
+         glyph-name="J"
+         unicode="J"
+         horiz-adv-x="57"
+         d="M19 18v-4h13v41h-7v13h28v-13h-7v-44l-11 -11h-19l-11 11v10h14v-3z"
+         id="glyph46" />
+      <glyph
+         glyph-name="K"
+         unicode="K"
+         d="M5 14h7v41h-7v13h26v-13h-6v-19l14 19h-6v13h26v-13h-5l-16 -21l16 -20h5v-14h-26v14h5l-9 11l-4 -6v-5h6v-14h-26v14z"
+         id="glyph48" />
+      <glyph
+         glyph-name="L"
+         unicode="L"
+         horiz-adv-x="57"
+         d="M5 7v7h7v41h-7v13h27v-13h-7v-41h14v7h14v-21h-48v7z"
+         id="glyph50" />
+      <glyph
+         glyph-name="M"
+         unicode="M"
+         horiz-adv-x="77"
+         d="M5 14h7v41h-7v13h20l14 -33l14 33h19v-13h-7v-41h7v-14h-26v14h7v19l-13 -34l-15 34v-19h7v-14h-27v14z"
+         id="glyph52" />
+      <glyph
+         glyph-name="N"
+         unicode="N"
+         horiz-adv-x="71"
+         d="M5 14h7v41h-7v13h20l21 -39v26h-7v13h27v-13h-7v-55h-13l-21 39v-25h7v-14h-27v14z"
+         id="glyph54" />
+      <glyph
+         glyph-name="O"
+         unicode="O"
+         horiz-adv-x="50"
+         d="M5 11v46l11 11h19l11 -11v-46l-11 -11h-19zM32 14v41h-13v-41h13z"
+         id="glyph56" />
+      <glyph
+         glyph-name="P"
+         unicode="P"
+         horiz-adv-x="57"
+         d="M5 14h7v41h-7v13h36l12 -11v-19l-12 -11h-16v-13h7v-14h-27v14zM39 41v14h-14v-14h14z"
+         id="glyph58" />
+      <glyph
+         glyph-name="Q"
+         unicode="Q"
+         horiz-adv-x="58"
+         d="M25 27h7v28h-13v-41h6v13zM46 57v-34l7 -7v-16h-14l-2 2l-2 -2h-19l-11 11v46l11 11h19z"
+         id="glyph60" />
+      <glyph
+         glyph-name="R"
+         unicode="R"
+         d="M5 14h7v41h-7v13h37l11 -11v-19l-4 -4l4 -4v-16h7v-14h-27v14h6v13h-13v-13h6v-14h-27v14zM39 41v14h-13v-14h13z"
+         id="glyph62" />
+      <glyph
+         glyph-name="S"
+         unicode="S"
+         horiz-adv-x="50"
+         d="M12 21h7v-7h13v13h-16l-11 11v19l11 11h19l11 -11v-9h-14v7h-13v-14h16l11 -11v-19l-11 -11h-19l-11 11v10h7z"
+         id="glyph64" />
+      <glyph
+         glyph-name="T"
+         unicode="T"
+         d="M19 14h6v41h-6v-7h-14v20h55v-20h-14v7h-7v-41h7v-14h-27v14z"
+         id="glyph66" />
+      <glyph
+         glyph-name="U"
+         unicode="U"
+         d="M15 68h16v-13h-6v-41h14v41h-6v13h26v-13h-6v-44l-11 -11h-19l-11 11v44h-7v13h10z"
+         id="glyph68" />
+      <glyph
+         glyph-name="V"
+         unicode="V"
+         d="M14 68h18v-13h-6l6 -28l7 28h-6v13h27v-13h-7l-14 -55h-13l-14 55h-7v13h9z"
+         id="glyph70" />
+      <glyph
+         glyph-name="W"
+         unicode="W"
+         horiz-adv-x="78"
+         d="M46 62v6h27v-13h-7l-7 -41h7v-14h-26v14h6l-7 19l-7 -19h6v-14h-26v14h7l-7 41h-7v13h27v-13h-7l3 -16l9 22h5l8 -22l3 16h-7v7z"
+         id="glyph72" />
+      <glyph
+         glyph-name="X"
+         unicode="X"
+         d="M5 68h26v-13h-6l7 -11l7 11h-6v13h26v-13h-6l-14 -21l14 -20h6v-14h-26v14h6l-7 10l-7 -10h6v-14h-26v14h7l13 20l-13 21h-7v13z"
+         id="glyph74" />
+      <glyph
+         glyph-name="Y"
+         unicode="Y"
+         d="M5 63v5h27v-13h-6l6 -11l7 11h-6v13h27v-13h-7l-14 -21v-20h7v-14h-27v14h7v20l-14 21h-7v8z"
+         id="glyph76" />
+      <glyph
+         glyph-name="Z"
+         unicode="Z"
+         horiz-adv-x="57"
+         d="M5 68h48v-13l-31 -41h17v7h14v-21h-48v14l31 41h-17v-7h-14v20z"
+         id="glyph78" />
+      <hkern
+         u1="A"
+         u2="Z"
+         k="2"
+         id="hkern80" />
+      <hkern
+         u1="A"
+         u2="Y"
+         k="10"
+         id="hkern82" />
+      <hkern
+         u1="A"
+         u2="X"
+         k="2"
+         id="hkern84" />
+      <hkern
+         u1="A"
+         u2="W"
+         k="10"
+         id="hkern86" />
+      <hkern
+         u1="A"
+         u2="V"
+         k="12"
+         id="hkern88" />
+      <hkern
+         u1="A"
+         u2="T"
+         k="9"
+         id="hkern90" />
+      <hkern
+         u1="A"
+         u2="S"
+         k="2"
+         id="hkern92" />
+      <hkern
+         u1="A"
+         u2="R"
+         k="2"
+         id="hkern94" />
+      <hkern
+         u1="A"
+         u2="Q"
+         k="2"
+         id="hkern96" />
+      <hkern
+         u1="A"
+         u2="P"
+         k="2"
+         id="hkern98" />
+      <hkern
+         u1="A"
+         u2="O"
+         k="2"
+         id="hkern100" />
+      <hkern
+         u1="A"
+         u2="N"
+         k="2"
+         id="hkern102" />
+      <hkern
+         u1="A"
+         u2="M"
+         k="2"
+         id="hkern104" />
+      <hkern
+         u1="A"
+         u2="L"
+         k="2"
+         id="hkern106" />
+      <hkern
+         u1="A"
+         u2="K"
+         k="2"
+         id="hkern108" />
+      <hkern
+         u1="A"
+         u2="J"
+         k="3"
+         id="hkern110" />
+      <hkern
+         u1="A"
+         u2="I"
+         k="2"
+         id="hkern112" />
+      <hkern
+         u1="A"
+         u2="H"
+         k="2"
+         id="hkern114" />
+      <hkern
+         u1="A"
+         u2="G"
+         k="2"
+         id="hkern116" />
+      <hkern
+         u1="A"
+         u2="F"
+         k="2"
+         id="hkern118" />
+      <hkern
+         u1="A"
+         u2="E"
+         k="2"
+         id="hkern120" />
+      <hkern
+         u1="A"
+         u2="D"
+         k="2"
+         id="hkern122" />
+      <hkern
+         u1="A"
+         u2="C"
+         k="2"
+         id="hkern124" />
+      <hkern
+         u1="A"
+         u2="B"
+         k="3"
+         id="hkern126" />
+      <hkern
+         u1="A"
+         u2="A"
+         k="2"
+         id="hkern128" />
+      <hkern
+         u1="B"
+         u2="A"
+         k="2"
+         id="hkern130" />
+      <hkern
+         u1="C"
+         u2="R"
+         k="2"
+         id="hkern132" />
+      <hkern
+         u1="C"
+         u2="H"
+         k="2"
+         id="hkern134" />
+      <hkern
+         u1="C"
+         u2="E"
+         k="2"
+         id="hkern136" />
+      <hkern
+         u1="C"
+         u2="D"
+         k="2"
+         id="hkern138" />
+      <hkern
+         u1="C"
+         u2="A"
+         k="3"
+         id="hkern140" />
+      <hkern
+         u1="D"
+         u2="I"
+         k="2"
+         id="hkern142" />
+      <hkern
+         u1="D"
+         u2="E"
+         k="2"
+         id="hkern144" />
+      <hkern
+         u1="D"
+         u2="A"
+         k="3"
+         id="hkern146" />
+      <hkern
+         u1="E"
+         u2="A"
+         k="2"
+         id="hkern148" />
+      <hkern
+         u1="F"
+         u2="L"
+         k="3"
+         id="hkern150" />
+      <hkern
+         u1="F"
+         u2="G"
+         k="2"
+         id="hkern152" />
+      <hkern
+         u1="F"
+         u2="E"
+         k="2"
+         id="hkern154" />
+      <hkern
+         u1="F"
+         u2="A"
+         k="14"
+         id="hkern156" />
+      <hkern
+         u1="G"
+         u2="H"
+         k="2"
+         id="hkern158" />
+      <hkern
+         u1="H"
+         u2="A"
+         k="2"
+         id="hkern160" />
+      <hkern
+         u1="I"
+         u2="V"
+         k="2"
+         id="hkern162" />
+      <hkern
+         u1="I"
+         u2="O"
+         k="2"
+         id="hkern164" />
+      <hkern
+         u1="I"
+         u2="J"
+         k="3"
+         id="hkern166" />
+      <hkern
+         u1="J"
+         u2="K"
+         k="2"
+         id="hkern168" />
+      <hkern
+         u1="J"
+         u2="A"
+         k="9"
+         id="hkern170" />
+      <hkern
+         u1="L"
+         u2="Y"
+         k="14"
+         id="hkern172" />
+      <hkern
+         u1="L"
+         u2="T"
+         k="14"
+         id="hkern174" />
+      <hkern
+         u1="L"
+         u2="M"
+         k="2"
+         id="hkern176" />
+      <hkern
+         u1="L"
+         u2="A"
+         k="2"
+         id="hkern178" />
+      <hkern
+         u1="N"
+         u2="O"
+         k="2"
+         id="hkern180" />
+      <hkern
+         u1="N"
+         u2="A"
+         k="9"
+         id="hkern182" />
+      <hkern
+         u1="O"
+         u2="U"
+         k="2"
+         id="hkern184" />
+      <hkern
+         u1="O"
+         u2="P"
+         k="2"
+         id="hkern186" />
+      <hkern
+         u1="O"
+         u2="N"
+         k="2"
+         id="hkern188" />
+      <hkern
+         u1="P"
+         u2="Q"
+         k="2"
+         id="hkern190" />
+      <hkern
+         u1="Q"
+         u2="R"
+         k="3"
+         id="hkern192" />
+      <hkern
+         u1="Q"
+         u2="A"
+         k="2"
+         id="hkern194" />
+      <hkern
+         u1="R"
+         u2="Y"
+         k="9"
+         id="hkern196" />
+      <hkern
+         u1="R"
+         u2="S"
+         k="2"
+         id="hkern198" />
+      <hkern
+         u1="R"
+         u2="O"
+         k="2"
+         id="hkern200" />
+      <hkern
+         u1="R"
+         u2="E"
+         k="2"
+         id="hkern202" />
+      <hkern
+         u1="R"
+         u2="A"
+         k="2"
+         id="hkern204" />
+      <hkern
+         u1="S"
+         u2="T"
+         k="2"
+         id="hkern206" />
+      <hkern
+         u1="S"
+         u2="E"
+         k="2"
+         id="hkern208" />
+      <hkern
+         u1="S"
+         u2="A"
+         k="2"
+         id="hkern210" />
+      <hkern
+         u1="T"
+         u2="U"
+         k="2"
+         id="hkern212" />
+      <hkern
+         u1="T"
+         u2="R"
+         k="2"
+         id="hkern214" />
+      <hkern
+         u1="T"
+         u2="H"
+         k="2"
+         id="hkern216" />
+      <hkern
+         u1="T"
+         u2="A"
+         k="14"
+         id="hkern218" />
+      <hkern
+         u1="U"
+         u2="V"
+         k="2"
+         id="hkern220" />
+      <hkern
+         u1="U"
+         u2="D"
+         k="2"
+         id="hkern222" />
+      <hkern
+         u1="V"
+         u2="W"
+         k="2"
+         id="hkern224" />
+      <hkern
+         u1="V"
+         u2="E"
+         k="2"
+         id="hkern226" />
+      <hkern
+         u1="V"
+         u2="A"
+         k="14"
+         id="hkern228" />
+      <hkern
+         u1="W"
+         u2="A"
+         k="12"
+         id="hkern230" />
+      <hkern
+         u1="X"
+         u2="Y"
+         k="2"
+         id="hkern232" />
+      <hkern
+         u1="X"
+         u2="A"
+         k="2"
+         id="hkern234" />
+      <hkern
+         u1="Y"
+         u2="Z"
+         k="2"
+         id="hkern236" />
+      <hkern
+         u1="Y"
+         u2="E"
+         k="2"
+         id="hkern238" />
+      <hkern
+         u1="Y"
+         u2="A"
+         k="12"
+         id="hkern240" />
+      <hkern
+         u1="Z"
+         u2="A"
+         k="2"
+         id="hkern242" />
+    </font>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-0"
+     id="g1620"
+     style="display:none;opacity:1">
+    <g
+       inkscape:label="Auto-Satin"
+       id="g3070">
+      <path
+         d="m 11.8496,46.8559 -2e-4,-0.1325 -0.0021,-1.5273 0.6874,-1.3419 0.3191,-0.435 v 0 l 0.5944,-0.8104 0.9135,-1.2454 0.9071,-0.7191 v 0 l 0.3148,-0.2496 1.3254,-0.8796 1.3254,-0.8796 0.1208,-0.0275 v 0 l 1.319,-0.3005 1.5736,0.0088 0.7806,0.0043 v 0 l 0.7931,0.0045 1.514,0.0086 1.3998,0.0083"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun1"
+         inkscape:label="AutoSatin Running Stitch 1" />
+      <path
+         id="autosatin1"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 25.8318,31.7276 16.0297,31.6758 4.75513,42.424 l 0.1038,46.3815 11.07027,11.4865 9.5109,-0.017 m 0.1987,-55.3187 -6.6975,-0.0441 -0.055,40.9917 6.2057,0.02 M 23.9106,45.8095 23.9175,29.758 M 20.0632,45.86 9.15207,35.7557 M 20.2195,49.1494 3.70454,49.0981 M 20.545,79.9087 2.57514,79.8883 M 20.1111,84.6422 8.8135,96.1093 m 14.5243,-11.4636 0.0987,17.5753"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 2"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         id="autosatin2"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 24.526065,85.850207 31.5112,85.9039 31.4595,47.3454 m -6.5021,52.9296 9.5109,0.017 L 45.5386,88.8056 45.641,43.0467 M 30.1781,49.1494 46.693,49.0981 M 29.8526,79.9087 47.8224,79.8883 M 30.2865,84.6422 41.584,96.1093 M 27.0597,84.6457 26.961,102.221"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 3"
+         sodipodi:nodetypes="ccccccccccccccc"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 38.5479,46.8559 2e-4,-0.1325 0.0022,-1.5273 -0.6875,-1.3419 -0.3191,-0.435 v 0 l -0.5944,-0.8104 -0.9135,-1.2454 -0.907,-0.7191 v 0 L 34.814,40.3947 33.4886,39.5151 32.1631,38.6355 32.0424,38.608 v 0 l -1.3191,-0.3005 -1.5736,0.0088 -0.7805,0.0043 v 0 l -0.7931,0.0045 -1.5141,0.0086 -1.3998,0.0083"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun2"
+         inkscape:label="AutoSatin Running Stitch 4" />
+      <path
+         id="autosatin3"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 24.5657,31.7276 9.8021,-0.0518 11.2746,10.7482 -0.0014,0.6227 m -20.8823,1.9096 6.6975,-0.0441 0.0033,2.4332 M 26.4869,45.8095 26.48,29.758 M 30.3344,45.86 41.2455,35.7557 m -10.4952,11.7046 15.6,-4.7285"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 5"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-1"
+     style="display:none"
+     id="g1624">
+    <g
+       inkscape:label="Auto-Satin"
+       id="g7045">
+      <path
+         id="autosatin4"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 7.73893,35.1991 0.89812,18.632 M 11.5749,30.4703 11.4711,53.6527 M 5.23574,38.762 5.34629,53.6059 M 4.84509,52.1615 12.5583,52.132 M 4.76744,41.8666 12.1292,31.834 14.215,31.8804"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 1"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 19.0681,42.7388 3e-4,-0.1877 0.002,-1.5538 0.002,-1.5538 4e-4,-0.3145 v 0 l 0.0016,-1.2393 0.002,-1.5538 0.0011,-0.8168 v 0 l 10e-4,-0.737 0.002,-1.5538 0.0017,-1.3191"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun3"
+         inkscape:label="AutoSatin Running Stitch 2" />
+      <path
+         id="autosatin5"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 12.0368,31.8708 11.9071,86.1514 M 26.1276,31.9475 26.1165,85.9635"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 3"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 18.4932,93.003 -1.1368,0.0026 -1.5464,0.0036 -0.6937,0.0017 v 0 l -0.8526,0.002 -1.5464,0.0036 -0.9779,0.0023 v 0 l -0.5684,0.0013 -1.54635,0.0036 -1.26212,0.003 v 0 l -0.28422,6e-4 -1.54634,0.0037 -1.54634,0.0036"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun4"
+         inkscape:label="AutoSatin Running Stitch 4" />
+      <path
+         id="autosatin6"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 4.91996,100.019 31.999,99.9585 M 5.0513,86.0499 32.0026,85.9841"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 5"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-2"
+     style="display:none"
+     id="g1628">
+    <path
+       id="path7756"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 47.372121,79.647302 30.742605,79.620039 M 46.865092,100.85293 30.685084,84.907841 M 25.88639,101.13194 25.62282,84.972449 M 4.1483953,100.94004 20.003174,84.908952 M 3.9252869,80.216626 19.772844,80.216004 M 9.4806261,63.973038 20.034717,73.969385 m 4.6656,-15.99703 0.03294,16.05643 m 6.578691,-15.972012 10.23303,10.314547 m -10.60614,-15.600498 17.118796,-0.0918 m -16.7603,-6.635155 9.832509,-10.157626 m -15.683341,9.902334 0.0031,-15.104306 M 19.596184,45.875882 8.9414354,37.19166 M 19.826887,50.387415 2.8834405,50.360549 m 15.9301715,1.231602 0.209787,-6.697396 13.005085,0.270442 -0.01176,13.843971 -16.008233,-0.08641 -11.0537803,11.053702 -0.0065,30.15813 41.0566073,-0.11652 -0.07498,-21.03328 M 4.7964302,51.932981 4.9474862,42.99009 16.10279,31.814975 l 18.993398,0.142654 10.928609,11.070896 0.130638,19.143979 -11.119847,10.734235 -16.068444,0.09561 -0.06033,12.928438 13.072943,-0.09045 -0.100392,-6.800159"
+       inkstitch:satin_column="True"
+       inkstitch:zigzag_spacing_mm="0.3"
+       inkstitch:contour_underlay="True" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-3"
+     style="display:none"
+     id="g1632">
+    <g
+       inkscape:label="Auto-Satin"
+       id="g9794">
+      <path
+         id="autosatin7"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 25.2649,58.3188 0.0764,8.5594 m 5.8171,-10.1354 11.4675,8.4786 M 30.7506,52.0837 46.0853,51.932 M 31.1937,45.8683 39.9542,36.6259 M 24.7366,45.9316 24.333,30.3859 M 18.557,45.748 8.24828,36.9167 M 19.148,51.1424 2.62452,51.1384 m 15.22018,0.6924 0.12,-6.8001 14.0918,0.0783 -0.141,13.7862 -6.8979,0.1386 M 3.96579,51.7937 3.95077,42.9584 15.0822,31.962 l 19.0087,0.0791 11.0472,11.1138 -0.2631,18.7086 -3.837677,4.897588 -15.9043,0.1989"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 1"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         sodipodi:nodetypes="ccccccccccccccccccccccccccc" />
+      <path
+         id="autosatin8"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 24.992145,64.962022 15.9043,0.1989 3.978555,4.516578 0.1785,12.6919 m -20.0359,-9.8623 6.8979,0.1386 0.0816,7.9789 m -6.7322,-7.4024 0.0764,-8.5595 m 5.8171,10.1354 11.4675,-8.4786 m -11.8753,13.1378 15.3347,0.1516"
+         inkstitch:satin_column="True"
+         sodipodi:nodetypes="ccccccccccccc"
+         inkscape:label="AutoSatin 2"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 38.5446,82.9894 5e-4,0.0371 0.0198,1.5295 -0.1878,1.5301 -0.2763,0.4439 v 0 l -0.5642,0.9068 -0.8406,1.3507 -0.5137,0.8255 v 0 l -0.3268,0.5253 -1.311,0.8766 -1.2133,0.7671 v 0 l -0.1253,0.0792 -1.3385,0.8464 -1.4942,0.2723 -0.3805,0.0017 v 0 l -1.14,0.0052 -1.5205,0.007 -0.9706,0.0044 v 0 l -0.55,0.0025 -1.5416,0.0071 -1.5395,0.007 v 0 l -0.0445,2e-4 -1.5841,0.0072 -1.584,0.0072 -0.4183,-0.0144 v 0 l -1.1408,-0.0394 -1.3266,-0.8387 -0.7778,-0.4917 v 0 L 15.3056,91.2983 13.979,90.4597 13.1252,89.3344 v 0 L 13.0634,89.2529 12.2092,87.9682 11.355,86.6836 11.2304,86.2581 v 0 l -0.3033,-1.0354 v -1.5467 -1.0056 0 -0.5411 -1.5468 l -0.0085,-1.5432"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun5"
+         inkscape:label="AutoSatin Running Stitch 3" />
+      <path
+         id="autosatin9"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 17.8127,79.039 0.152,7.4712 14.0918,-0.0782 -0.0594,-5.8074 M 4.02443,79.0396 3.95077,88.5826 15.0822,99.579 34.0909,99.4998 45.1381,88.3861 45.0535,82.3694 m -13.8598,3.3032 8.7605,9.2425 M 24.7366,85.6094 24.333,101.155 M 18.557,85.7929 8.24828,94.6243 M 19.148,80.3986 2.62452,80.4026"
+         inkstitch:satin_column="True"
+         sodipodi:nodetypes="ccccccccccccccccccccccccccc"
+         inkscape:label="AutoSatin 4"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-4"
+     style="display:none"
+     id="g1636">
+    <g
+       inkscape:label="Auto-Satin"
+       id="g15664"
+       style="opacity:1">
+      <path
+         id="autosatin10"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 1.89155,65.9406 H 7.28139 M 1.85978,78.985 7.24872,78.9672 M 7.14709,79.6188 7.18303,65.2893"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 1"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 9.23139,66.8433 0.66695,-1.3982 0.66156,-1.3629 0.2957,-0.6074 v 0 l 0.38,-0.7807 0.6758,-1.3881 0.5811,-1.1937 v 0 l 0.0946,-0.1944 0.6757,-1.388 0.6757,-1.3881 0.1908,-0.392 v 0 l 0.4849,-0.9961 0.6757,-1.3881 0.4762,-0.9782 v 0 l 0.1995,-0.4099 0.6758,-1.3881 0.6757,-1.388 0.0745,-0.1816 v 0 l 0.5015,-1.2229 0.4418,-1.4651 0.2563,-0.8499 v 0 l 0.1855,-0.6151 0.4417,-1.4651 0.4418,-1.465 0.0107,-0.0353 v 0 l 0.4311,-1.4297 0.4418,-1.4651 0.2067,-0.6857 v 0 l 0.235,-0.7793 0.4418,-1.4651 0.4029,-1.336 v 0 l 0.0389,-0.129 0.4418,-1.4651 0.4336,-1.4556 0.1427,-0.5373"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun6"
+         inkscape:label="AutoSatin Running Stitch 2" />
+      <path
+         id="autosatin11"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 23.7586,32.0509 -0.2904,17.295 -6.8857,17.6969 M 22.0158,32.256 1.88033,66.6439 M 19.6395,32.8882 26.51,32.7775 M 10.1995,49.7549 26.6033,49.6126 M 1.87144,65.2173 19.0163,65.2935"
+         inkstitch:satin_column="True"
+         sodipodi:nodetypes="ccccccccccc"
+         inkscape:label="AutoSatin 3"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         id="autosatin12"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 7.28138,65.9406 H 27.4346 M 7.24871,78.9671 27.3986,78.9004 m -0.1018,0.6483 0.0396,-14.2561"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 4"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 28.8604,66.9823 v -1.5546 -1.5545 -0.4033 0 -1.1513 -1.5545 -0.8066 0 -0.748 -1.5545 -1.2099 0 -0.3447 -1.5545 -1.5546 -0.0585 0 -1.496 -1.5545 -0.4619 0 -1.0927 -1.5545 -0.8652 0 -0.6894 -1.5545 -1.2685 0 -0.2861 -1.5545 -1.5546 -0.1171 0 -1.4374 -1.5546 -0.5204 0 -1.0341 -1.5545 -0.9238"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun7"
+         inkscape:label="AutoSatin Running Stitch 5" />
+      <path
+         id="autosatin13"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 21.649,31.7849 V 67.0114 M 36.0719,31.9321 v 35.021"
+         inkstitch:satin_column="True"
+         sodipodi:nodetypes="cccc"
+         inkscape:label="AutoSatin 6"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 27.9934,72.4195 0.9733,-0.0016 1.5502,-0.0025 1.2076,-0.002 v 0 l 0.3425,-6e-4 1.5501,-0.0026 1.5501,-0.0025 0.2884,-5e-4 v 0 l 1.2617,-0.0021 1.5502,-0.0026 0.9192,-0.0015 v 0 l 0.6309,-0.0011 1.5501,-0.0025 1.5501,-0.0026"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun8"
+         inkscape:label="AutoSatin Running Stitch 7" />
+      <path
+         id="autosatin14"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 42.8985,78.849 27.3986,78.9004 M 42.9371,65.9406 H 27.4346 m 15.362,13.5541 0.0424,-14.1995"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 8"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         id="autosatin15"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 35.9703,77.7954 v 8.567 m -14.0419,-8.5886 0.0383,8.811"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 9"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 29.4927,93.0471 h -1.242 -1.5425 -0.611 v 0 h -0.9315 -1.5425 -0.9215 v 0 h -0.621 -1.5425 -1.2319 v 0 h -0.3106 -1.5424 -1.5425"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun9"
+         inkscape:label="AutoSatin Running Stitch 10" />
+      <path
+         id="autosatin16"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 15.7887,100.026 H 43.0848 M 16.0328,86.0677 h 27.0317"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 11"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-5"
+     style="display:none"
+     id="g1640">
+    <path
+       id="path16654"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 18.692249,79.899062 3.9439185,79.725399 M 18.888203,85.193835 8.912376,95.798138 m 15.777209,-10.564473 0.229219,16.429915 m 6.267097,-16.497475 10.642436,9.856074 M 31.012883,80.148127 48.531657,80.085927 M 31.076485,74.012846 41.382629,62.905421 M 25.243034,58.357034 25.213934,74.00869 M 19.215575,58.304705 9.788463,68.751625 M 19.364967,55.154546 3.2595196,55.176954 M 19.621329,48.913858 3.7878017,44.629488 M 22.831784,46.03614 14.854339,29.960687 m 28.146857,16.082101 0.221136,-15.196315 m 2.396582,14.209128 -27.62704,-0.05208 0.188098,14.244544 16.689396,-0.313481 11.162686,11.061721 0.0066,18.745727 -11.367898,11.335288 -18.508704,0.011 L 4.9450077,88.78655 5.0850092,78.745131 M 45.90344,32.075728 H 4.8603196 l 0.063169,29.829214 11.2077284,11.276066 15.610674,-0.06017 0.35975,12.699341 -14.016327,0.150449 -0.01239,-7.095561"
+       inkstitch:satin_column="True"
+       inkstitch:zigzag_spacing_mm="0.3"
+       inkstitch:contour_underlay="True" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-6"
+     style="display:none"
+     id="g1644">
+    <path
+       id="path19449"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 20.250033,73.897755 20.019331,57.783585 M 31.470463,73.787591 41.042782,63.325316 M 30.816555,80.104142 47.021763,79.829851 m -16.28276,4.414934 10.986159,11.314332 M 24.919781,85.330937 24.836341,101.23345 M 19.398674,85.287833 8.7977038,95.073543 M 20.063565,81.026527 3.4182135,81.109409 M 19.616359,52.054458 4.0952338,51.885346 M 19.737911,45.818381 9.8379911,36.003513 m 15.8081909,9.935839 0.13832,-14.43155 m 5.773953,14.585457 10.946792,-9.449912 m -11.702106,14.236032 16.64566,0.07335 m -15.507513,0.802333 0.293233,-6.424216 -13.282452,-0.115509 0.04982,40.751058 13.059018,0.0669 -0.02109,-12.933891 -13.881392,-0.0334 M 45.939819,51.639035 45.95169,42.60988 35.503189,32.069399 16.042036,32.179854 5.1124457,43.234219 4.9120722,89.150448 15.688651,100.07182 35.343577,100.23254 46.051517,89.133297 45.955119,69.880961 34.840793,58.758644 17.93322,58.966833"
+       inkstitch:satin_column="True"
+       inkstitch:zigzag_spacing_mm="0.3"
+       inkstitch:contour_underlay="True" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-7"
+     style="display:none"
+     id="g1648">
+    <g
+       inkscape:label="Auto-Satin"
+       id="g22398">
+      <path
+         id="autosatin17"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 5.90954,100.089 H 19.8595 M 5.98666,85.976 H 19.8709 M 6.00568,100.795 6.09052,85.2704"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 1"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 19.4729,93.0325 h 0.3923 1.5464 1.4425 v 0 h 0.1038 1.5464 1.5463 0.1847 v 0 h 1.3617 1.5463 0.4732 v 0 h 1.0732 1.5463 0.7617"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun10"
+         inkscape:label="AutoSatin Running Stitch 2" />
+      <path
+         id="autosatin18"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 33.023,100.089 H 19.8595 M 32.9724,85.976 H 19.8709 m 0.0881,14.819 0.0125,-15.5246"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 3"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         id="autosatin19"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 25.8405,86.2801 46.9461,44.3983 M 12.6866,86.4318 33.299,44.4865"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 4"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 39.7789,38.4942 -1.083,-2e-4 -1.5189,-5e-4 -0.9851,-2e-4 v 0 l -0.5338,-2e-4 -1.5189,-4e-4 -1.5189,-4e-4 h -0.0154 v 0 l -1.5035,-4e-4 -1.5358,-6e-4 -0.5477,-3e-4 v 0 l -0.9969,-5e-4 -1.5447,-9e-4 -1.0454,-5e-4 v 0 l -0.4992,-3e-4 -1.5446,-9e-4 -1.5431,-8e-4 v 0 h -0.0015 l -1.5447,-8e-4 -1.5446,-9e-4 -0.4962,-3e-4 v 0 l -1.0193,-7e-4 -1.5143,-10e-4 -1.0534,-8e-4 v 0 l -0.4609,-3e-4 -1.0105,0.8053 -0.205,1.5097 2e-4,0.3104 v 0 l 0.0011,1.2684 0.0013,1.5938 6e-4,0.7248 v 0 l 7e-4,0.8691 0.0012,1.5938 9e-4,1.1241 v 0 l 4e-4,0.4697 0.0013,1.5938 9e-4,1.5235"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun11"
+         inkscape:label="AutoSatin Running Stitch 5" />
+      <path
+         id="autosatin20"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 46.2114,45.4653 46.0449,30.9939 M 31.1096,45.8035 C 30.7215,45.1695 29.2801,31.3109 29.2801,31.3109 M 23.9978,45.646 13.096,31.1871 M 20.9468,46.6228 4.18235,37.3209 M 21.3122,51.0884 4.84123,51.0194 m 15.14127,0.7973 0.0034,-6.864 26.9629,-0.0178 M 6.02195,51.9207 5.99592,32.0115 46.9568,32.0576"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 6"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-8"
+     style="display:none"
+     id="g1652">
+    <g
+       inkscape:label="Auto-Satin"
+       id="g26178">
+      <path
+         d="m 11.9903,46.0337 0.0014,1.1892 0.0014,1.2093 0.0014,1.2092 10e-5,0.0788 v 0 l 0.0013,1.1305 0.0014,1.2093 0.0015,1.2093 1e-4,0.1375 v 0 l 7e-4,1.0209 8e-4,1.1653 8e-4,1.1652 2e-4,0.3351 v 0 l 6e-4,0.8302 8e-4,1.1652 0.5232,1.0415 0.3001,0.4314 v 0 l 0.3947,0.5675 0.6553,0.932 0.8622,0.6828 0.7562,-2e-4 v 0 l 0.4527,-10e-5 1.2088,-2e-4 1.2143,-2e-4 0.8107,-2e-4 v 0 h 0.3524 l 1.1631,-3e-4 1.163,-2e-4 1.008,-2e-4 v 0 h 0.1551 l 1.1631,-3e-4 1.218,-3e-4 1.1503,-3e-4"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun12"
+         inkscape:label="AutoSatin Running Stitch 1" />
+      <path
+         id="autosatin21"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 27.5564,58.1456 0.6728,9.4459 m 1.6568,-9.4234 9.7236,8.9766 M 31.0539,56.6265 47.0081,61.3084 M 30.7353,52.4242 47.0915,52.1001 M 41.2837,36.4461 30.946,45.8716 M 24.5821,30.8631 24.6426,46.0025 M 9.10515,37.1308 19.8892,46.1725 M 3.71671,53.4991 20.0183,53.5228 M 5.65806,64.7226 20.2428,56.937 m -5.1693,10.4885 6.629,-9.4306 m 3.5567,9.7167 -0.5316,-9.8466 m 1.3456,1.013 -6.862,0.005 -0.1069,-13.9167 12.812,0.0612 -0.0108,14.0013 -6.6775,-0.1105 m 1.8069,7.6865 H 9.35506 L 4.81267,62.2082 4.84687,42.8486 16.0431,31.9635 l 19.0894,0.0322 10.7983,10.8708 0.2063,19.1401 -3.3061,4.4188 -16.5645,0.2259"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccc"
+         inkscape:label="AutoSatin 2" />
+      <path
+         id="autosatin22"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 25.3777,64.6332 16.5645,0.2259 4.1949,4.8397 -0.027,2.5048 m -20.8821,0.5835 6.6775,-0.1106 0.0022,2.9279 m -4.3513,-2.0446 -0.216,-9.8667 m 2.5456,9.8442 8.8348,-9.3974 M 31.0539,75.0788 47.0081,70.397"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccc"
+         inkscape:label="AutoSatin 3" />
+      <path
+         d="m 39.0003,75.1525 -0.008,1.1473 -0.0083,1.1979 -0.0083,1.1979 -0.0011,0.161 v 0 l -0.0073,1.0308 -0.0084,1.1586 -0.0084,1.1586 -0.0026,0.3561 v 0 l -0.0059,0.8025 -0.0084,1.1586 -0.0085,1.1586 -0.2133,0.544 v 0 l -0.206,0.5256 -0.6103,0.9896 -0.6103,0.9897 -0.4274,0.6931 v 0 l -0.1829,0.2966 -0.6661,0.9096 -0.9633,0.6191 -0.9112,0.5857 v 0 l -0.0521,0.0334 -0.9632,0.6191 -0.9633,0.6191 -1.1804,0.0987 -0.1677,4e-4 v 0 l -1.0526,0.0027 -1.2202,0.0032 -1.2203,0.0031 -0.211,5e-4 v 0 l -1.0092,0.0026 -1.2203,0.0032 -1.1835,0.003 -0.2912,7e-4 v 0 l -0.847,0.0021 -1.1382,0.0028 -1.1382,0.0029 -0.5808,0.0014 v 0 l -0.5574,0.0014 -1.0439,-0.4638 -0.9761,-0.6314 -0.7069,-0.4573 v 0 L 16.1416,91.5071 15.1656,90.8757 14.4999,89.9471 13.93,89.0314 v 0 l -0.0651,-0.1047 -0.635,-1.0203 -0.635,-1.0203 -0.5948,-1.0161 v 0 l -0.01,-0.017 0.0014,-1.2093 0.0014,-1.2093 0.0014,-1.2092 10e-5,-0.0567 v 0 l 0.0013,-1.1526 0.0015,-1.2093 0.0014,-1.2092 10e-5,-0.133 v 0 l 9e-4,-1.0758 8e-4,-1.1553 8e-4,-1.1553 2e-4,-0.3178 v 0 l 6e-4,-0.8375 8e-4,-1.1553 0.3587,-1.1316 0.2459,-0.4631 v 0 l 0.2865,-0.5397 0.5553,-1.029 0.7404,-0.8352 0.8075,-0.0118 v 0 l 0.3899,-0.0057 1.2151,2e-4 1.215,2e-4 0.8842,2e-4 v 0 l 0.3322,10e-5 1.1758,2e-4 1.1758,2e-4 1.0204,2e-4 v 0 l 0.1553,1e-4 1.1758,2e-4 1.1876,3e-4 1.1854,4e-4"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun13"
+         inkscape:label="AutoSatin Running Stitch 4" />
+      <path
+         id="autosatin23"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 26.0732,72.8274 -6.862,-0.005 -0.1069,13.9166 12.812,-0.0611 -0.0086,-11.0735 M 26.1461,64.6798 H 8.46626 L 4.81267,69.4971 4.84687,88.8568 16.0431,99.7419 35.1325,99.7097 45.9308,88.8388 46.1101,72.2036 m -15.3748,7.0776 16.3562,0.324 M 41.2837,95.2593 30.946,85.8337 M 24.5821,100.842 24.6426,85.7029 M 9.10515,94.5745 19.8892,85.5328 M 3.71671,78.2063 20.0183,78.1826 M 4.76926,66.5619 20.2428,74.7684 m -6.0581,-10.9093 7.5178,9.8514 m 2.6679,-10.1376 0.3572,10.2675"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccc"
+         inkscape:label="AutoSatin 5" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-9"
+     style="display:none"
+     id="g1656">
+    <path
+       id="path26793"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 18.971692,79.507701 4.0221492,79.233732 m 14.5068148,6.019383 -9.9064818,9.45864 m 22.7578578,-9.33447 8.905495,9.708474 m -9.085228,-16.109841 15.062514,-0.09496 m -14.982758,-27.471102 14.906413,0.0342 M 31.288721,45.648968 40.305978,35.751947 M 17.741253,45.609391 9.055684,36.735711 M 17.780641,58.066582 9.0966394,68.379086 M 30.531983,58.037731 30.632894,74.422277 m 2.134393,-15.529393 -15.7961,0.03298 0.0766,-13.92773 14.961894,0.07769 -0.02313,40.96777 -14.08532,0.09129 0.05754,-7.34357 M 33.086785,73.040678 15.041816,72.988016 5.0857401,61.866685 4.9355043,42.785798 15.052168,31.941452 34.143632,32.069985 44.979179,43.060886 44.981857,88.9522 34.106721,99.97672 14.941418,100.13469 4.9123088,89.057991 5.0038863,78.771634"
+       inkstitch:satin_column="True"
+       inkstitch:contour_underlay="True"
+       inkstitch:zigzag_spacing_mm="0.3" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-A"
+     style="display:none"
+     id="g1660">
+    <g
+       inkscape:label="Auto-Satin"
+       id="g30051">
+      <path
+         id="autosatin24"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 4.83183,100.01 H 18.7818 M 4.9743,85.9265 H 18.8549 M 4.92471,100.715 5.08142,85.2223"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 1"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 18.4487,92.9685 h 0.3697 1.5461 1.4706 v 0 h 0.0756 1.5461 1.5462 0.2185 v 0 h 1.3276 1.5462 0.5126 v 0 h 1.0335 1.5462 0.8067"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun14"
+         inkscape:label="AutoSatin Running Stitch 2" />
+      <path
+         id="autosatin25"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 31.9905,100.01 H 18.7818 M 31.998,85.9265 H 18.8549 m 0.0233,14.7885 0.0804,-15.4927"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 3"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         id="autosatin26"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 11.1611,86.8585 16.8319,69.17 m 8.8737,17.8268 5.5255,-17.7557 m -20.4667,15.0573 16.8215,0.1732"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 4"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 23.826,69.8562 0.2055,-0.6507 0.4674,-1.4798 0.4056,-1.2838 v 0 l 0.0619,-0.196 0.4674,-1.4798 0.4675,-1.4798 0.0817,-0.2587 v 0 l 0.3857,-1.2212 0.4675,-1.4798 0.2253,-0.7133 v 0 l 0.2427,-0.7681 0.46,-1.456 0.376,-1.1901 v 0 l 0.084,-0.2659 0.4601,-1.456 0.46,-1.4561 0.0747,-0.2362 v 0 l 0.3854,-1.2198 0.2826,-1.4831 0.1246,-0.7817 v 0 l 0.1205,-0.7563 0.2451,-1.5381 0.1979,-1.2415 v 0 l 0.0472,-0.2965 0.2451,-1.538 0.2451,-1.5381 0.026,-0.1634 v 0 l 0.2191,-1.3746 0.2451,-1.5381 0.0993,-0.6233 v 0 l 0.1458,-0.9147 0.245,-1.5381 0.1726,-1.0831 v 0 l 0.0725,-0.4549 0.2451,-1.5381 0.2493,-1.5287 0.0022,-0.0134"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun15"
+         inkscape:label="AutoSatin Running Stitch 5" />
+      <path
+         id="autosatin27"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 28.8603,31.6501 16.8319,69.17 M 36.8087,31.5927 36.7866,51.3891 31.2311,69.2411 M 27.5625,32.724 37.6594,32.5903 m -18.9663,26.6658 16.7331,0.0233 m -19.2837,9.7918 15.8383,0.078"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 6"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         id="autosatin28"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 27.4165,79.0359 44.9827,79.0208 M 31.3149,66.1023 40.9124,65.9456"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 7"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 48.2756,69.8562 -0.2055,-0.6507 -0.4675,-1.4798 -0.4055,-1.2838 v 0 l -0.0619,-0.196 -0.4675,-1.4798 -0.4674,-1.4798 -0.0817,-0.2587 v 0 l -0.3858,-1.2212 -0.4674,-1.4798 -0.2253,-0.7133 v 0 l -0.2427,-0.7681 -0.46,-1.456 -0.376,-1.1901 v 0 l -0.0841,-0.2659 -0.46,-1.456 -0.4601,-1.4561 -0.0746,-0.2362 v 0 L 42.4972,51.5651 42.2145,50.082 42.09,49.3003 v 0 L 41.9695,48.544 41.7244,47.0059 41.5265,45.7644 v 0 l -0.0472,-0.2965 -0.2451,-1.538 -0.2451,-1.5381 -0.026,-0.1634 v 0 L 40.744,40.8538 40.4989,39.3157 40.3996,38.6924 v 0 l -0.1458,-0.9147 -0.2451,-1.5381 -0.1726,-1.0831 v 0 l -0.0725,-0.4549 -0.2451,-1.5381 -0.2492,-1.5287 -0.0022,-0.0134"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun16"
+         inkscape:label="AutoSatin Running Stitch 8" />
+      <path
+         id="autosatin29"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 35.2929,31.5927 0.022,19.7964 11.0811,35.6077 M 43.2412,31.6501 60.9404,86.8585 M 44.539,32.724 34.4422,32.5903 m 18.9662,26.6658 -16.733,0.0233 m 24.6617,25.019 -16.8215,0.1732"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 9"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 53.4805,92.9685 h -1.1764 -1.5462 -0.6638 v 0 h -0.8823 -1.5461 -0.958 v 0 h -0.5882 -1.5461 -1.2521 v 0 h -0.2941 -1.5461 -1.5462"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun17"
+         inkscape:label="AutoSatin Running Stitch 10" />
+      <path
+         id="autosatin30"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 39.8637,100.01 H 67.0224 M 40.0062,85.9265 h 27.0236"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 11"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-B"
+     style="display:none"
+     id="g1664">
+    <g
+       inkscape:label="Auto-Satin"
+       id="g34829">
+      <path
+         id="autosatin31"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 25.9627,57.9523 0.011,9.7875 m 12.0224,-9.8722 11.9308,7.5208 M 37.9467,52.1379 H 54.8851 M 38.0767,45.9766 47.5449,35.7106 M 34.2091,30.729 30.2058,45.6695 M 5.77517,30.6897 V 46.3903 M 4.88639,45.0418 38.9292,45.1652 39.0196,58.9248 23.7814,58.9107 M 4.99543,31.8541 41.2604,31.9079 53.0185,42.933 52.9734,62.3355 45.7136,67.0236 H 23.643"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 1"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 18.4247,61.9787 v -0.639 -1.5452 -1.3431 0 -0.2021 -1.5453 -1.5452 -0.2347 0 -1.3105 -1.5452 -0.6716 0 -0.8737 -1.5452 -1.1083 0 -0.4369 -1.5452 -1.5452"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun18"
+         inkscape:label="AutoSatin Running Stitch 2" />
+      <path
+         id="autosatin32"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 24.784,44.1581 v 26.35 M 12.0653,44.5264 V 70.7139 M 25.4199,44.2397 11.4294,44.6448"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 3"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 18.4247,69.0333 v 0.0325 1.5452 1.5453 0.4043 0 1.1409 1.5452 0.8411 0 0.7041 1.5452 1.278 0 0.2673 1.5452 1.5452 0.1696 0 1.3756 1.5452 0.6065"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun19"
+         inkscape:label="AutoSatin Running Stitch 4" />
+      <path
+         id="autosatin33"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 12.0653,87.59893 V 70.7139 M 24.784,87.49243 V 70.5081 m 0.6359,0.0897 -13.9905,0.2264"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 5"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         id="autosatin34"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 23.643,64.8314 h 22.0706 l 7.2598,4.688 0.0012,0.5366 m -29.1932,2.8882 15.2382,-0.014 -0.0174,2.6369 m -13.0395,-1.6645 0.011,-9.7875 m 12.0224,9.8722 11.9308,-7.5208 M 38.3043,75.7427 53.673,69.6805"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 6"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 45.9878,74.7367 -5e-4,1.2364 -5e-4,1.5808 -3e-4,0.8755 v 0 l -3e-4,0.7053 -3e-4,1.5201 -3e-4,1.4673 v 0 0.0462 l -3e-4,1.5136 -2e-4,1.5135 -0.1491,0.6012 v 0 l -0.2099,0.8465 -0.8906,1.3071 -0.6976,1.0239 v 0 l -0.193,0.2833 -0.8907,1.3071 -1.273,0.8087 -0.2304,0.1205 v 0 l -1.1216,0.5868 -1.3519,0.7072 -0.8423,0.3203 v 0 l -0.5762,0.219 -1.5629,0.0036 -1.5134,0.0034 v 0 l -0.0495,2e-4 -1.5628,0.0035 -1.524,0.0036 -0.5564,0.0014 v 0 l -0.9982,0.0025 -1.5547,0.0039 -1.1398,0.0028 v 0 l -0.4148,0.001 -1.5546,0.0039 -1.5547,0.0038 -0.1686,5e-4 v 0 l -1.386,0.0034 -1.5546,0.0039 -0.7521,0.0018 v 0 l -0.8026,0.002 -1.5546,0.0039 -1.3355,0.0033 v 0 l -0.2191,5e-4 -1.5547,0.0039 -1.5546,0.0039 -0.3643,9e-4 v 0 l -1.1903,0.0029 -1.55467,0.0039 -0.94772,0.0023 v 0 L 8.0267,93.3992 6.47207,93.4031 4.94091,93.407"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun20"
+         inkscape:label="AutoSatin Running Stitch 7" />
+      <path
+         id="autosatin35"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 4.88639,86.478678 34.04281,-0.1235 0.073,-11.1226 m -34.00677,24.4339 36.26497,-0.054 11.7581,-11.025 -0.0439,-18.866 m -15.0279,9.6611 h 16.9384 m -16.8084,6.1612 9.4682,10.266 M 34.2091,100.79148 30.2058,85.850978 M 5.77517,100.83048 V 85.130078"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 8"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-C"
+     style="display:none"
+     id="g1668">
+    <path
+       id="path36136"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 31.063822,80.051149 16.036168,-0.13555 m -15.684503,5.346409 10.029436,9.114753 M 25.558996,85.260653 25.366195,100.25743 M 18.818035,85.302076 9.2287051,95.418054 M 18.61766,80.107902 3.7440321,79.970188 M 18.69723,51.261214 3.8250138,51.238091 M 18.476188,46.014518 8.2169484,36.525923 M 23.89318,45.738191 23.640272,30.671308 m 7.637672,15.047649 9.744389,-9.560803 M 31.108194,51.067022 47.359185,50.94549 M 45.8496,51.921833 46.045417,43.061104 34.810201,31.956623 15.614326,32.062309 4.8583306,43.197367 4.9663079,89.10894 15.667014,99.988261 35.332945,99.830394 46.098645,88.815373 46.001212,79.02523 m -13.983027,-27.047776 0.191835,-7.042982 -14.327902,0.151755 0.09195,40.893569 14.090434,-0.05198 -0.123754,-6.761404"
+       inkstitch:satin_column="True"
+       inkstitch:zigzag_spacing_mm="0.3"
+       inkstitch:center_walk_underlay="False"
+       inkstitch:contour_underlay="True" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-D"
+     style="display:none"
+     id="g1672">
+    <g
+       inkscape:label="Auto-Satin"
+       id="g38768">
+      <path
+         id="autosatin36"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 5.04554,32.0402 20.4898,32.0649 M 4.94707,45.0873 20.4907,45.1281 M 5.51693,45.8108 5.54128,31.1911"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 1"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 18.4024,44.4589 v 1.5474 1.5474 0.417 0 1.1304 1.5474 0.8339 0 0.7135 1.5474 1.2508 0 0.2966 1.5473 1.5474 0.1205 0 1.4269 1.5474 0.5374 0 1.01 1.5474 0.9543 0 0.5931 1.5474 1.3713 0 0.1761 1.5473 1.5474 0.2409 0 1.3065 1.5474 0.6578 0 0.8896 1.5474 1.0748 0 0.4726 1.5474 1.4917 0 0.0556 1.5474 1.5474 0.3613"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun21"
+         inkscape:label="AutoSatin Running Stitch 2" />
+      <path
+         id="autosatin37"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 11.7762,86.502 V 44.4323 M 25.0286,86.6975 V 44.4856"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 3"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         id="autosatin38"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 20.4898,32.0649 20.7483,0.0332 11.6977,10.9935 0.0549,45.9223 -0.6886,0.6315 M 20.4907,45.1281 38.8609,45.1763 38.89,82.8765 M 31.1516,46.0647 31.1322,30.984 m 6.9715,14.8435 8.9274,-9.7261 M 38.004,52.058 53.6489,51.9911 m -15.5947,25.7545 15.5646,0.0549"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 4"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 45.939,84.5982 2e-4,0.2499 -0.3431,1.4128 -0.8471,1.2627 -0.2985,0.445 v 0 l -0.5486,0.8177 -0.8471,1.2627 -1.057,0.6764 v 0 l -0.2008,0.1284 -1.3463,0.7445 -1.3463,0.7446 -0.3912,0.2118 v 0 l -0.96,0.5199 -1.5241,-0.0051 -1.1443,-0.0038 v 0 l -0.3799,-0.0013 -1.5241,-0.0051 -1.5241,-0.0051 -0.332,-0.0011 v 0 l -1.1921,-0.004 -1.5464,-0.0045 -1.0216,-0.002 v 0 l -0.5362,-0.0011 -1.5578,-0.0031 -1.5578,-0.0031 -0.1083,-2e-4 v 0 L 22.355,93.0322 20.7972,93.0291 20.0444,93.0276 v 0 l -0.805,-0.0016 -1.5578,-0.0031 -1.3973,-0.0027 v 0 l -0.1605,-4e-4 -1.5578,-0.003 -1.5578,-0.0031 -0.4841,-0.001 v 0 L 11.4504,93.0106 9.89258,93.0075 8.76401,93.0052 v 0 l -0.42923,-8e-4 -1.5578,-0.0031 -1.54117,-0.0036 -0.23192,-7e-4"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun22"
+         inkscape:label="AutoSatin Running Stitch 5" />
+      <path
+         id="autosatin39"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 5.08984,85.9885 38.8924,85.9253 38.89,82.8764 M 4.91794,100.006 40.7772,100.216 52.3022,89.6454 M 37.9971,84.9273 47.9777,95.3595 M 29.0611,85.1466 29.0161,100.834 M 5.69606,84.9889 5.91735,101.088"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 6"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-E"
+     style="display:none"
+     id="g1676">
+    <g
+       inkscape:label="Auto-Satin"
+       id="g42917">
+      <path
+         id="autosatin40"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 5.14147,45.0526 17.2674,45.0914 M 5.03304,32.1093 20.7506,32.114 M 6.4493,31.3272 6.19003,46.6819"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 1"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 19.4417,38.6034 1.1167,0.0017 1.5494,0.0025 0.9225,0.0014 v 0 l 0.6269,10e-4 1.5494,0.0024 1.4124,0.0022 v 0 l 0.137,2e-4 1.5495,0.0025 1.5494,0.0024 0.3527,5e-4 v 0 l 1.1967,0.0019 1.5494,0.0024 0.8425,0.0013 v 0 l 0.7069,0.0011 1.5583,0.0022 1.3234,0.0017 v 0 l 0.2249,3e-4 1.5483,0.0019 1.5483,0.0019 0.2671,3e-4 v 0 l 1.2812,0.0016 1.5483,0.0019 0.7591,10e-4 v 0 l 0.7892,9e-4 0.7111,1.1486 0.0059,1.4486 v 0 l 4e-4,0.0996 0.0055,1.5795 0.004,1.5615 8e-4,0.348 v 0 l 0.0031,1.2134 0.004,1.5615 0.0021,0.8137 v 0 l 0.0019,0.7477 0.004,1.5615 0.0057,1.2794"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun23"
+         inkscape:label="AutoSatin Running Stitch 2" />
+      <path
+         id="autosatin41"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 53.1682,52.0664 53.2051,32.1239 20.7506,32.114 M 39.0313,51.9407 38.9195,45.1606 17.2674,45.0914 m 20.6842,6.2639 16.458,-0.0313 M 37.4408,48.0073 54.7106,36.573 M 30.6761,46.4504 40.125,30.4213"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 3"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         id="autosatin42"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 24.7391,44.4989 v 21.7 m -12.7561,-21.7 v 21.7 m 13.394,-21.6 H 11.3452"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 4"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 23.6725,66.0166 h 1.55 1.5134 v 0 h 0.0366 1.55 1.4768 v 0 h 0.0732 1.55 1.4402 v 0 h 0.1098 1.55 1.4036 v 0 h 0.1464 1.55 1.367"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun24"
+         inkscape:label="AutoSatin Running Stitch 5" />
+      <path
+         id="autosatin43"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 38.9895,59.0528 h -15.317 m 15.317,13.9276 h -15.317"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 6"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         id="autosatin44"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 24.7391,66.1989 V 86.6471 M 11.983,66.1989 V 86.6471 M 25.377,66.2989 H 11.3452"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 7"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 19.6409,92.8681 -0.615,0.001 -1.5515,0.0024 -1.4719,0.0023 v 0 l -0.0796,1e-4 -1.5515,0.0025 -1.5515,0.0024 -0.4558,7e-4 v 0 l -1.0958,0.0017 -1.55147,0.0024 -0.99115,0.0016 v 0 l -0.56037,9e-4 -1.55151,0.0024 -1.52655,0.0024"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun25"
+         inkscape:label="AutoSatin Running Stitch 8" />
+      <path
+         id="autosatin45"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 37.9516,79.379 16.458,0.0313 M 37.4408,83.1285 54.7106,95.2347 M 30.6761,84.6854 40.125,101.386 M 6.4493,100.481 6.19003,84.454 M 5.14147,86.0832 38.9195,85.9753 39.0313,78.7936 M 5.03304,99.6985 53.2051,99.6838 53.1682,78.6679"
+         inkstitch:satin_column="True"
+         sodipodi:nodetypes="cccccccccccccc"
+         inkscape:label="AutoSatin 9"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-F"
+     style="display:none"
+     id="g1680">
+    <g
+       inkscape:label="Auto-Satin"
+       id="g47881">
+      <path
+         id="autosatin46"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 4.73236,45.0462 16.6642,45.074 M 4.94561,32.048 20.7252,32.0371 M 5.51425,31.0865 v 14.7212"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 1"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 18.3306,44.552 v 1.55 1.55 0.414 0 1.136 1.55 0.828 0 0.722 1.55 1.242 0 0.308 1.55 1.55 0.106 0 1.444 1.55 0.52 0 1.03 1.55 0.934 0 0.616 1.55 1.348 0 0.202 1.55 1.55 0.212 0 1.338 1.55 0.626 0 0.924 1.55 1.04 0 0.51 1.55 1.4539 0 0.0961 1.55 1.55 0.3179"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun26"
+         inkscape:label="AutoSatin Running Stitch 2" />
+      <path
+         d="m 18.4638,92.9137 h -1.1595 -1.55 -0.6804 v 0 h -0.8696 -1.55 -0.9703 v 0 H 11.1043 9.55431 8.29418 v 0 h -0.28987 -1.55 -1.55"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun27"
+         inkscape:label="AutoSatin Running Stitch 3" />
+      <path
+         id="autosatin47"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 4.90431,99.9077 H 18.8543 M 4.90431,85.9198 H 18.8543 M 5.00431,100.607 V 85.2204"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 4"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 18.4638,92.9137 h 0.3905 1.55 1.4493 v 0 h 0.1007 1.55 1.55 0.1892 v 0 h 1.3608 1.55 0.4791 v 0 h 1.0709 1.55 0.7689"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun28"
+         inkscape:label="AutoSatin Running Stitch 5" />
+      <path
+         id="autosatin48"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 32.0232,99.9077 H 18.8543 M 32.0232,85.9198 H 18.8543 m 0.1,14.6872 V 85.2204"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 6"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         id="autosatin49"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 11.8304,86.7199 V 66.252 M 24.8307,86.7199 V 66.252 m 0.65,0.1 H 11.1804"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 7"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 23.9526,65.8808 h 1.55 1.55 0.6687 v 0 h 0.8813 1.55 1.3374 v 0 h 0.2126 1.55 1.55 0.4561 v 0 h 1.0939 1.55 1.1248"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun29"
+         inkscape:label="AutoSatin Running Stitch 8" />
+      <path
+         id="autosatin50"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 39.0274,72.6675 H 23.9526 M 39.0274,59.0941 H 23.9526"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 9"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         id="autosatin51"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 11.8304,66.252 v -21.7 m 13.0003,21.7 v -21.7 m 0.65,0.1 H 11.1804"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 10"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         id="autosatin52"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 16.6642,45.074 22.377,0.052 -0.0542,6.9436 M 20.7252,32.0371 51.9381,32.0154 52.0501,52.0141 M 37.8554,51.0926 53.1773,50.9063 M 38.2104,46.1136 52.8778,36.2867 M 31.0094,45.8932 42.228,30.4287"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 11"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-G"
+     style="display:none"
+     id="g1684">
+    <path
+       id="path50567"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.745022,73.938742 0.215887,-15.525528 m 5.296425,15.27361 15.672501,-15.672712 m -15.895781,20.965056 15.929816,0.08421 m -15.76332,6.15795 10.374072,10.381054 M 19.801408,85.183466 9.3919922,95.163304 M 20.012155,79.013967 3.6945523,78.940606 M 20.370563,53.911142 3.5203112,53.732808 M 19.85177,46.003605 8.1688677,36.450841 m 23.0600483,9.683431 9.880618,-9.869392 m -9.992063,14.621007 15.801831,0.01314 m -0.882819,0.90666 0.02553,-8.907351 L 35.226987,31.99569 15.810402,32.04883 4.9943054,42.871911 4.895299,88.635616 15.788416,99.951583 34.96757,100.17466 46.033435,88.923013 l 0.03444,-29.783415 -20.998476,0.05992 m 7.002159,-7.559958 -0.107354,-6.528456 -12.957604,-0.03709 -0.01016,40.870047 12.905466,0.06014 0.189037,-13.082584 -7.042351,0.100481"
+       inkstitch:satin_column="True"
+       inkstitch:zigzag_spacing_mm="0.3"
+       inkstitch:contour_underlay="True" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-H"
+     style="display:none"
+     id="g1688">
+    <g
+       inkscape:label="Auto-Satin"
+       id="g53354">
+      <path
+         id="autosatin53"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 4.92903,99.3188 20.4285,99.451 M 4.92903,86.3998 20.4285,86.5321 M 5.02903,99.9656 V 85.7547"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 1"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 19.823,92.9864 0.6055,0.0052 1.5499,0.0132 1.55,0.0132 0.0181,2e-4 v 0 l 1.5318,0.013 1.5499,0.0133 0.6418,0.0054"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun30"
+         inkscape:label="AutoSatin Running Stitch 2" />
+      <path
+         id="autosatin54"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 27.27,99.5094 20.4285,99.451 M 27.27,86.5905 20.4285,86.5321 m 0.1,13.5659 V 85.887"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 3"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         id="autosatin55"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 11.9247,87.4916 V 65.9647 M 25.1799,87.4916 V 65.9647 m 0.6628,0.1 H 11.2619"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 4"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 18.5523,65.8782 v -1.4635 -1.55 -0.5888 0 -0.9612 -1.55 -1.091 0 -0.459 -1.55 -1.55 -0.0433 0 -1.5067 -1.55 -0.5455 0 -1.0045 -1.55 -1.0477 0 -0.5023 -1.55 -1.55"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun31"
+         inkscape:label="AutoSatin Running Stitch 5" />
+      <path
+         d="m 19.8533,38.5925 -0.9445,-0.0081 -1.55,-0.0132 -1.229,-0.0105 v 0 l -0.3209,-0.0027 -1.55,-0.0133 -1.5499,-0.0132 -0.3027,-0.0026 v 0 L 11.1591,38.5183 9.60912,38.5051 8.68278,38.4972 v 0 L 8.05917,38.4918 6.50923,38.4786 4.95929,38.4654"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun32"
+         inkscape:label="AutoSatin Running Stitch 6" />
+      <path
+         id="autosatin56"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 4.95929,44.9249 20.4587,45.0571 M 4.95929,32.0059 20.4587,32.1382 M 5.05928,45.5717 V 31.3608"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 7"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 19.8533,38.5925 0.6054,0.0051 1.55,0.0133 1.5499,0.0132 0.0182,2e-4 v 0 l 1.5318,0.013 1.5499,0.0133 0.6418,0.0054"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun33"
+         inkscape:label="AutoSatin Running Stitch 8" />
+      <path
+         id="autosatin57"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 27.3003,32.1966 -6.8416,-0.0584 m 6.8416,12.9773 -6.8416,-0.0584 m 0.1,0.6468 V 31.4931"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 9"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         id="autosatin58"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 11.9247,44.2647 v 21.7 m 13.2552,-21.7 v 21.7 m 0.6628,-21.6 H 11.2619"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 10"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         id="autosatin59"
+         style="fill:none;stroke:#000000;stroke-width:0.864041px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 23.5405,72.491 16.6641,0.1908 M 23.5405,59.5605 40.2046,59.7513"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 11"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 45.8567,65.8782 v 0.0865 1.55 1.55 0.4157 0 1.1343 1.55 0.9179 0 0.6321 1.55 1.4202 0 0.1298 1.55 1.55 0.3724 0 1.1776 1.55 0.8747 0 0.6753 1.55 1.3769"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun34"
+         inkscape:label="AutoSatin Running Stitch 12" />
+      <path
+         d="m 44.0786,92.9228 -1.2472,-0.0106 -1.55,-0.0132 -0.9263,-0.0079 v 0 l -0.6236,-0.0054 -1.55,-0.0132 -1.5499,-0.0132"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun35"
+         inkscape:label="AutoSatin Running Stitch 13" />
+      <path
+         id="autosatin60"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 36.6316,99.3188 7.7497,0.0661 m -7.7497,-12.9851 7.7497,0.0661 M 36.7316,99.9656 V 85.7547"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 14"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 44.0786,92.9228 0.3027,0.0026 1.55,0.0132 1.5499,0.0133 0.3209,0.0027 v 0 l 1.229,0.0105 1.55,0.0132 0.9445,0.0081 v 0 l 0.6054,0.0052 1.55,0.0132 1.5499,0.0132 0.0182,2e-4 v 0 l 1.5318,0.013 1.5499,0.0133 0.6418,0.0054"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun36"
+         inkscape:label="AutoSatin Running Stitch 15" />
+      <path
+         id="autosatin61"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 58.9726,99.5094 44.3813,99.3849 M 58.9726,86.5905 44.3813,86.4659 m 0.1,13.5661 V 85.8209"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 16"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         id="autosatin62"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 39.229,87.4916 V 44.2647 M 52.4843,87.4916 V 44.2647"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 17"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 44.0786,38.5289 -1.2472,-0.0106 -1.55,-0.0132 -0.9263,-0.0079 v 0 l -0.6236,-0.0054 -1.55,-0.0132 -1.5499,-0.0132"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun37"
+         inkscape:label="AutoSatin Running Stitch 18" />
+      <path
+         id="autosatin63"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 36.6316,44.9249 22.341,0.1906 m -22.341,-13.1096 22.341,0.1907"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 19"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-I"
+     style="display:none"
+     id="g1692">
+    <g
+       inkscape:label="Auto-Satin"
+       id="g58935">
+      <path
+         id="autosatin64"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 4.91734,32.1075 21.9673,32.0652 M 4.91734,44.7798 21.9673,44.7375 M 5.01734,45.4131 V 31.4736"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 1"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 18.2709,44.2207 v 1.55 1.55 0.4846 0 1.0654 1.55 0.9692 0 0.5808 1.55 1.4538 0 0.0962 1.55 1.55 0.3884 0 1.1616 1.55 0.873 0 0.677 1.55 1.3576 0 0.1924 1.55 1.55 0.2922 0 1.2578 1.55 0.7768 0 0.7732 1.55 1.2615 0 0.2885 1.55 1.55 0.1961 0 1.3539 1.55 0.6807 0 0.8693 1.55 1.1653"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun38"
+         inkscape:label="AutoSatin Running Stitch 2" />
+      <path
+         d="m 19.9543,93.207 -1.087,0.0027 -1.55,0.0038 -1.1222,0.0028 v 0 l -0.4278,10e-4 -1.55,0.0039 -1.55,0.0038 -0.2315,6e-4 v 0 l -1.3185,0.0033 -1.54998,0.0038 -0.89074,0.0022 v 0 l -0.65925,0.0016 -1.55,0.0039 -1.54999,0.0038"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun39"
+         inkscape:label="AutoSatin Running Stitch 3" />
+      <path
+         id="autosatin65"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 4.91734,99.5804 21.9673,99.5381 M 4.91734,86.9081 21.9673,86.8658 M 5.01734,100.214 V 86.2742"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 4"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 19.9543,93.207 0.463,-0.0012 1.55,-0.0038 1.55,-0.0039 0.1963,-5e-4 v 0 l 1.3537,-0.0033 1.55,-0.0039 0.8555,-0.0021 v 0 l 0.6945,-0.0017 1.55,-0.0038 1.5147,-0.0038 v 0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun40"
+         inkscape:label="AutoSatin Running Stitch 5" />
+      <path
+         id="autosatin66"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 31.232,99.5152 -9.2647,0.0229 m 9.2647,-12.6952 -9.2647,0.0229 m 0.1,13.3052 V 86.232"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 6"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         id="autosatin67"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 11.806,87.236 V 44.2207 M 24.7358,87.236 V 44.2207"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 7"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         id="autosatin68"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 21.9673,44.7375 31.232,44.7146 M 21.9673,32.0652 31.232,32.0423 M 22.0673,45.3709 V 31.4314"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 8"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-J"
+     style="display:none"
+     id="g1696">
+    <g
+       inkscape:label="Auto-Satin"
+       id="g65249">
+      <path
+         d="m 11.923,82.494 4e-4,-0.8743 8e-4,-1.5361 0.0022,-1.3535"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun41"
+         inkscape:label="AutoSatin Running Stitch 1" />
+      <path
+         id="autosatin69"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 18.786,78.8374 -0.1208,7.2649 13.2287,0.3506 0.0046,-42.6028 M 5.06687,78.6229 5.1283,88.9998 16.2192,100.171 35.0692,100.278 45.9919,88.8266 45.9283,44.0975 M 19.7178,79.323 3.96996,79.3552 M 19.6483,85.2446 9.56798,95.6531 M 24.3352,85.3319 25.0463,101.232 m 6.3501,-15.5053 10.2515,9.1984 M 30.8044,80.3019 46.7881,79.9849 M 31.1168,46.476 l 15.948,0.0451"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 2"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 39.0805,38.6119 h -0.1906 -1.55 -1.55 -0.2446 v 0 h -1.3054 -1.55 -0.6797 v 0 h -0.8703 -1.55 -1.1149 v 0 h -0.4351 -1.55 -1.55"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun42"
+         inkscape:label="AutoSatin Running Stitch 3" />
+      <path
+         id="autosatin70"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 24.9399,32.2877 H 53.2211 M 24.9399,44.9361 h 28.2812"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 4"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-K"
+     style="display:none"
+     id="g1700">
+    <g
+       inkscape:label="Auto-Satin"
+       id="g70374">
+      <path
+         id="autosatin71"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 4.92698,44.6508 18.8769,44.6191 M 4.92698,31.959 18.8769,31.9272 M 5.02698,45.2852 v -13.961"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 1"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 17.9964,38.2751 0.8805,-0.002 1.55,-0.0035 0.8369,-0.0019 v 0 l 0.7131,-0.0016 1.55,-0.0035 1.0042,-0.0023 v 0 l 0.5458,-0.0013 1.55,-0.0035 1.1716,-0.0027"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun43"
+         inkscape:label="AutoSatin Running Stitch 2" />
+      <path
+         id="autosatin72"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 27.7985,31.9069 -8.9216,0.0203 m 8.9216,12.6716 -8.9216,0.0203 m 0.1,0.6343 v -13.961"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 3"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         id="autosatin73"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 25.0078,43.5705 v 31 M 12.0272,43.7232 v 30.4244 m 13.6297,-30.4848 -14.2787,0.168"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 4"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 18.5175,73.5657 v 0.7933 1.5356 1.411 0 0.1246 1.5357 1.5356 0.5439 0 0.9917 1.5356 1.2126 0 0.323 1.5356 1.5356 0.3457"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun44"
+         inkscape:label="AutoSatin Running Stitch 5" />
+      <path
+         d="m 18.247,93.3726 -0.6695,0.0015 -1.55,0.0035 -1.0479,0.0024 v 0 l -0.5021,0.0011 -1.55,0.0036 -1.2153,0.0027 v 0 l -0.3347,8e-4 -1.54997,0.0035 -1.38264,0.0032 v 0 l -0.16736,4e-4 -1.55,0.0035 -1.54999,0.0035"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun45"
+         inkscape:label="AutoSatin Running Stitch 6" />
+      <path
+         id="autosatin74"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 5.17754,99.7482 19.1275,99.7165 M 5.17754,87.0564 19.1275,87.0246 M 5.27754,100.383 V 86.4216"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 7"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 18.247,93.3726 0.8805,-0.002 1.55,-0.0036 0.8368,-0.0019 v 0 l 0.7132,-0.0016 1.55,-0.0035 1.0042,-0.0023 v 0 l 0.5458,-0.0013 1.55,-0.0035 1.1715,-0.0026"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun46"
+         inkscape:label="AutoSatin Running Stitch 8" />
+      <path
+         id="autosatin75"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 28.049,99.6962 -8.9215,0.0203 m 8.9215,-12.7122 -8.9215,0.0203 m 0.1,13.3264 V 86.3898"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 9"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         id="autosatin76"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 12.0272,88.181 V 74.1476 M 25.0078,88.8694 V 74.5705 m 0.6491,0.1211 -14.2787,-0.4652"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 10"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         id="autosatin77"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 23.9411,82.0947 5.0528,-6.2024 M 24.1097,65.3537 26.6789,61.8512 M 23.996,82.8544 24.177,64.4359"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 11"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 32.5995,69.6044 0.9645,1.1689 0.9646,1.1689 0.2179,0.2641 v 0 l 0.7467,0.9048 0.9646,1.1689 0.4358,0.5281 v 0 l 0.5288,0.6408 0.9646,1.1689 0.6537,0.7921 v 0 l 0.3109,0.3768 0.9646,1.1689 0.8716,1.0562 v 0 l 0.0929,0.1126 0.9646,1.1689 0.9646,1.1689 0.1249,0.1514 v 0 l 0.8397,1.0175 0.9646,1.1689 0.3428,0.4155 v 0 l 0.6218,0.7534 0.9646,1.1689 0.5607,0.6795"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun47"
+         inkscape:label="AutoSatin Running Stitch 12" />
+      <path
+         d="m 49.2011,93.3726 -0.6694,0.0015 -1.55,0.0035 -1.0479,0.0024 v 0 l -0.5021,0.0011 -1.55,0.0036 -1.2153,0.0027 v 0 l -0.3347,8e-4 -1.55,0.0035 -1.3826,0.0032 v 0 l -0.1674,4e-4 -1.55,0.0035 -1.55,0.0035"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun48"
+         inkscape:label="AutoSatin Running Stitch 13" />
+      <path
+         id="autosatin78"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 36.1317,99.7482 13.95,-0.0317 m -13.95,-12.6601 13.95,-0.0318 m -13.85,13.3584 V 86.4216"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 14"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 49.2011,93.3726 0.8806,-0.002 1.55,-0.0036 0.8368,-0.0019 v 0 l 0.7132,-0.0016 1.55,-0.0035 1.0042,-0.0023 v 0 l 0.5458,-0.0013 1.55,-0.0035 1.1715,-0.0026"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun49"
+         inkscape:label="AutoSatin Running Stitch 15" />
+      <path
+         id="autosatin79"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 59.0032,99.6962 -8.9215,0.0203 m 8.9215,-12.7122 -8.9215,0.0203 m 0.1,13.3264 V 86.3898"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 16"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         id="autosatin80"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 55.5749,87.8567 36.6958,64.4221 m 2.9873,23.3558 -11.18,-12.9911"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 17"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         id="autosatin81"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 28.9939,75.8923 55.3354,43.5576 M 26.6789,61.8512 40.0734,43.5916 M 29.173,76.517 26.6222,61.0683"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 18"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 49.2011,38.2752 -0.6694,0.0015 -1.55,0.0035 -1.0479,0.0024 v 0 l -0.5021,0.0011 -1.55,0.0036 -1.2153,0.0027 v 0 l -0.3347,8e-4 -1.55,0.0035 -1.3826,0.0032 v 0 l -0.1674,3e-4 -1.55,0.0036 -1.55,0.0035"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun50"
+         inkscape:label="AutoSatin Running Stitch 19" />
+      <path
+         id="autosatin82"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 36.1317,44.6508 22.8715,-0.052 M 36.1317,31.959 59.0032,31.9069"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 20"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-L"
+     style="display:none"
+     id="g1704">
+    <g
+       inkscape:label="Auto-Satin"
+       id="g76569">
+      <path
+         id="autosatin83"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 5.03335,100.085 17.37545,0.008 M 4.77847,86.0569 17.9415,86.0162 M 5.45806,84.7155 5.73379,101.613"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 1"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 18.3066,86.9663 -10e-5,-0.0953 -0.0028,-1.55 -0.0028,-1.5499 -8e-4,-0.4294 v 0 l -0.002,-1.1206 -0.0028,-1.55 -0.0017,-0.954 v 0 l -0.0011,-0.596 -0.0028,-1.55 -0.0027,-1.4786 v 0 l -10e-5,-0.0714 -0.0028,-1.55 -0.0028,-1.55 -8e-4,-0.4532 v 0 l -0.002,-1.0968 -0.0028,-1.55 -0.0018,-0.9778 v 0 l -0.001,-0.5722 -0.0028,-1.55 -0.0027,-1.5024 v 0 l -10e-5,-0.0476 -0.0028,-1.55 -0.0028,-1.55 -9e-4,-0.477 v 0 l -0.0019,-1.073 -0.0028,-1.55 -0.0018,-1.0016 v 0 l -0.001,-0.5484 -0.0028,-1.55 -0.0027,-1.5262 v 0 l -1e-4,-0.0238 -0.0028,-1.55 -0.0028,-1.55 -9e-4,-0.5008 v 0 l -0.0019,-1.0492 -0.0028,-1.55 -0.0018,-1.0254 v 0 l -0.001,-0.5246 -0.0028,-1.55 -0.0028,-1.55"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun51"
+         inkscape:label="AutoSatin Running Stitch 2" />
+      <path
+         d="m 18.5705,38.3566 -1.1857,-4e-4 -1.55,-5e-4 -0.6607,-2e-4 v 0 l -0.8893,-3e-4 -1.55,-5e-4 -0.9572,-3e-4 v 0 l -0.5928,-2e-4 -1.55001,-5e-4 -1.25358,-5e-4 v 0 l -0.29642,-1e-4 -1.55,-5e-4 -1.55,-5e-4"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun52"
+         inkscape:label="AutoSatin Running Stitch 3" />
+      <path
+         id="autosatin84"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 4.98479,44.7869 18.9348,44.7915 M 4.98479,31.9174 18.9348,31.9219 M 5.08479,45.4304 V 31.2739"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 4"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 18.5705,38.3566 0.3643,10e-5 1.55,5e-4 1.4821,5e-4 v 0 h 0.0679 l 1.55,5e-4 1.55,5e-4 0.2285,1e-4 v 0 l 1.3215,4e-4 1.55,5e-4 0.525,2e-4 v 0 l 1.025,4e-4 1.55,5e-4 0.8214,2e-4"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun53"
+         inkscape:label="AutoSatin Running Stitch 5" />
+      <path
+         id="autosatin85"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 32.1562,31.9263 18.9348,31.9219 M 32.1562,44.7958 18.9348,44.7915 m 0.1,0.6435 V 31.2785"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 6"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         id="autosatin86"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 11.6938,43.4711 0.0785,43.4952 M 24.7625,43.4711 24.841,86.9663"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 7"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         id="autosatin87"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 22.4088,100.093 30.7524,0.014 -0.0549,-13.7368 m -35.1648,-0.354 21.153,-0.0655 -0.0189,-3.0694 m -5.9492,1.8215 12.1872,17.3432"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 8"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+      <path
+         d="m 46.0984,86.2525 -5e-4,-0.1023 -0.0069,-1.5244 -0.0071,-1.5229 -0.0022,-0.4632 v 0 l -0.005,-1.0826 -0.0073,-1.5425 -0.005,-0.9876"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun54"
+         inkscape:label="AutoSatin Running Stitch 9" />
+      <path
+         id="autosatin88"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 39.0517,79.009 0.0239,3.8723 m 14.0015,-3.8363 0.0293,7.3252 m -15.6865,-6.3217 17.769,0.1296 m -18.2322,1.9335 17.6637,3.6264 m -0.8129,0.7066 -15.4341,-3.8377"
+         inkstitch:satin_column="True"
+         inkscape:label="AutoSatin 10"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-M"
+     style="display:none"
+     id="g1708">
+    <g
+       inkscape:label="Auto-Satin"
+       id="g84989">
+      <path
+         id="autosatin89"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 4.7923,85.9166 13.7999,0.0512 M 4.7923,99.9426 18.5922,99.9937 M 4.8923,85.2157 v 15.4283"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 1" />
+      <path
+         d="m 18.1153,92.979 0.4769,0.0018 1.15,0.0042 1.15,0.0043 0.5538,0.002 v 0 l 0.5962,0.0023 1.15,0.0042 1.15,0.0043 0.4346,0.0016 v 0 l 0.7154,0.0027 1.1499,0.0042 1.15,0.0043 0.3154,0.0012"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun55"
+         inkscape:label="AutoSatin Running Stitch 2" />
+      <path
+         id="autosatin90"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 28.1075,100.029 -9.5153,-0.0353 m 9.5153,-13.9906 -9.5153,-0.0353 m 0.1,-0.7009 v 15.4281"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 3" />
+      <path
+         id="autosatin91"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 24.7031,87.4212 V 44.5043 M 11.9573,87.4212 V 44.5043"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 4" />
+      <path
+         d="m 16.8557,38.3921 -0.5843,0.0023 -1.151,0.0046 -1.151,0.0046 -0.7556,0.0029 v 0 l -0.3954,0.0016 -1.151,0.0046 -1.151,0.0045 -0.94449,0.0038 v 0 l -0.20653,8e-4 -1.151,0.0046 -1.151,0.0045 -1.13336,0.0045"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun56"
+         inkscape:label="AutoSatin Running Stitch 5" />
+      <path
+         id="autosatin92"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 5.93002,31.4224 24.9145,31.3359 M 5.93002,45.4484 30.6482,45.3618"
+         inkstitch:satin_column="True"
+         sodipodi:nodetypes="cccc"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 6" />
+      <path
+         id="autosatin93"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 22.9156,44.4645 -0.2937,17.624 14.732,33.0531 M 30.0651,44.1268 39.8461,65.2622 39.8889,95.46 M 21.8764,47.2743 32.6034,47.2072 M 25.9119,71.9854 40.8546,71.654 m -5.6712,23.1773 5.6865,-0.0249"
+         inkstitch:satin_column="True"
+         sodipodi:nodetypes="cccccccccccc"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 7" />
+      <path
+         d="m 38.5785,95.0754 0.0429,0.2254 0.1709,1.1559 0.1709,1.156 0.1709,1.1559"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun57"
+         inkscape:label="AutoSatin Running Stitch 8" />
+      <path
+         id="autosatin94"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 39.8955,100.11 -0.0066,-4.65 m -1.5163,1.9672 -1.0187,-2.2856 m 2.6196,5.0024 -1.7198,-2.9418"
+         inkstitch:satin_column="True"
+         sodipodi:nodetypes="cccccccccccc"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 9" />
+      <path
+         d="m 39.1087,95.0743 -0.0428,0.2265 -0.1687,1.1559 -0.1687,1.156 -0.1687,1.1559"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun58"
+         inkscape:label="AutoSatin Running Stitch 10" />
+      <path
+         id="autosatin95"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 55.8175,47.2743 45.0905,47.2072 M 51.782,71.9854 36.8393,71.654 M 42.5105,94.8313 36.824,94.8064 M 37.7984,100.11 37.7495,65.3809 47.6288,44.1268 M 39.3213,97.4272 55.072,62.0885 54.7783,44.4645"
+         inkstitch:satin_column="True"
+         sodipodi:nodetypes="cccccccccccc"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 11" />
+      <path
+         id="autosatin96"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 47.4304,45.3618 7.812,0.0274 m -2.0784,-14.0533 5.9999,0.0273 m -5.6132,-0.7281 -6.307,15.4283"
+         inkstitch:satin_column="True"
+         sodipodi:nodetypes="cccc"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 12" />
+      <path
+         d="m 57.581,38.3777 0.7732,0.0031 1.151,0.0045 1.151,0.0046 0.5667,0.0022 v 0 l 0.5842,0.0023 1.151,0.0046 1.151,0.0046 0.7557,0.0029 v 0 l 0.3953,0.0016 1.151,0.0046 1.151,0.0045 0.9446,0.0038 v 0 l 0.2064,8e-4 1.151,0.0046 1.151,0.0045 1.1335,0.0045"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun59"
+         inkscape:label="AutoSatin Running Stitch 13" />
+      <path
+         id="autosatin97"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 72.1486,45.4484 55.2424,45.3892 M 72.1486,31.4224 59.1639,31.3632 M 59.46,30.6624 55.1463,46.0908"
+         inkstitch:satin_column="True"
+         sodipodi:nodetypes="cccc"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 14" />
+      <path
+         id="autosatin98"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 52.5724,44.5043 V 87.4212 M 65.3183,44.5043 v 42.9169"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 15" />
+      <path
+         d="m 58.8256,92.9666 -0.7923,-0.0029 -1.15,-0.0043 -1.1499,-0.0042 -0.2385,-9e-4 v 0 l -0.9115,-0.0034 -1.15,-0.0042 -1.15,-0.0043 -0.1193,-4e-4 v 0 l -1.0307,-0.0039 -1.15,-0.0042 -1.15,-0.0043"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun60"
+         inkscape:label="AutoSatin Running Stitch 16" />
+      <path
+         id="autosatin99"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 48.8334,85.9166 23.3152,0.0865 m -23.3152,13.9395 23.3152,0.0864"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 17" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-N"
+     style="display:none"
+     id="g1712">
+    <g
+       inkscape:label="Auto-Satin"
+       id="g92076">
+      <path
+         id="autosatin100"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 4.98384,100.052 13.79996,0.011 M 4.98384,86.0729 18.7838,86.0844 M 5.08384,100.751 V 85.374"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 1" />
+      <path
+         d="m 18.4524,93.0735 0.3314,3e-4 1.15,10e-4 1.15,9e-4 0.7357,6e-4 v 0 l 0.4143,4e-4 1.15,9e-4 1.15,10e-4 0.6528,5e-4 v 0 l 0.4972,4e-4 1.15,0.001 1.15,9e-4 0.5699,5e-4 v 0 l 0.5801,5e-4 1.15,9e-4 1.15,0.001 0.4871,4e-4"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun61"
+         inkscape:label="AutoSatin Running Stitch 2" />
+      <path
+         id="autosatin101"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 31.9209,100.074 18.7838,100.063 M 31.9209,86.0953 18.7838,86.0844 m 0.1,14.6776 V 85.3855"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 3" />
+      <path
+         id="autosatin102"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 11.9871,87.186 -0.07,-43.0944 m 12.8915,43.0944 -0.07,-43.0944"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 4" />
+      <path
+         d="m 18.5571,38.7478 -0.9554,0.0015 -1.1368,0.0017 -1.1367,0.0017 -0.1361,2e-4 v 0 l -1.0007,0.0015 -1.1368,0.0017 -1.1367,0.0017 -0.0907,10e-5 v 0 l -1.0461,0.0016 -1.13678,0.0017 -1.13677,0.0017 -0.04534,10e-5 v 0 L 7.37078,38.7646 6.23401,38.7663 5.09724,38.768"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun62"
+         inkscape:label="AutoSatin Running Stitch 5" />
+      <path
+         id="autosatin103"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 5.09724,45.202 32.0343,45.2243 M 5.09724,32.3341 25.2697,32.2411"
+         inkstitch:satin_column="True"
+         sodipodi:nodetypes="cccc"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 6" />
+      <path
+         id="autosatin104"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 39.1376,91.0624 10.752,0.2406 M 27.0074,67.8997 46.5671,67.349 M 22.3068,46.5253 34.5167,46.3269 M 31.6573,44.165 47.8148,72.3239 47.9464,99.7164 M 23.394,44.2775 23.7185,59.4842 46.0167,99.8778"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 7" />
+      <path
+         id="autosatin105"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 46.2813,100.028 -0.07,-55.9364 m 12.8915,55.9364 -0.07,-55.9364"
+         inkstitch:satin_column="True"
+         sodipodi:nodetypes="cccc"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 8" />
+      <path
+         d="m 52.2298,38.7792 -0.8185,-7e-4 -1.15,-9e-4 -1.15,-10e-4 -0.2486,-2e-4 v 0 l -0.9014,-7e-4 -1.15,-10e-4 -1.15,-9e-4 -0.1658,-2e-4 v 0 l -0.9842,-8e-4 -1.15,-9e-4 -1.15,-0.001 -0.0829,-10e-5 v 0 l -1.0671,-8e-4 -1.15,-0.001 -1.15,-10e-4"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun63"
+         inkscape:label="AutoSatin Running Stitch 9" />
+      <path
+         id="autosatin106"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 38.7613,45.202 26.937,0.0223 m -26.937,-12.8902 26.937,0.0224"
+         inkstitch:satin_column="True"
+         sodipodi:nodetypes="cccc"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 10" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-O"
+     style="display:none"
+     id="g1716">
+    <g
+       inkscape:label="Auto-Satin"
+       id="g95319">
+      <path
+         d="m 11.9025,82.1616 2e-4,-0.0536 0.0038,-1.1392 0.0035,-1.1472 0.002,-1.1512 2e-4,-0.1208 v 0 l 0.0019,-1.0304 0.002,-1.1512 0.002,-1.1512 5e-4,-0.2791 v 0 l 0.0016,-0.8721 0.002,-1.1512 0.0021,-1.1512 7e-4,-0.4375 v 0 l 0.0013,-0.7137 0.002,-1.1511 0.0021,-1.1512 10e-4,-0.5959 v 0 l 10e-4,-0.5553 0.0021,-1.1512 0.002,-1.1512 0.0013,-0.7543 v 0 l 7e-4,-0.3969 0.0021,-1.1512 0.002,-1.1512 0.0016,-0.9127 v 0 l 5e-4,-0.2385 0.002,-1.1512 0.002,-1.1512 0.0019,-1.071 v 0 l 2e-4,-0.0802 0.002,-1.1512 0.0021,-1.1512 0.002,-1.1512 1e-4,-0.0782 v 0 l 0.0019,-1.073 0.003,-1.1501 0.0037,-1.1533 7e-4,-0.2355 v 0 l 0.0029,-0.9178 0.0037,-1.1533 0.0037,-1.1533 0.0591,-0.383 v 0 l 0.1134,-0.7347 0.6194,-0.9658 0.6193,-0.9658 0.3099,-0.4831 v 0 l 0.3095,-0.4826 0.6193,-0.9658 0.8964,-0.7016 0.6331,-0.4077 v 0 l 0.3286,-0.2117 0.9617,-0.6195 0.9617,-0.6194 0.8857,-0.2939 v 0 l 0.1546,-0.0513 1.1473,-0.0027 1.1473,-0.0027 1.1472,-0.0027 h 0.0073 v 0 l 1.14,-0.0027 1.1473,-0.0027 1.1349,-0.003 0.1898,-5e-4"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun64"
+         inkscape:label="AutoSatin Running Stitch 1" />
+      <path
+         id="autosatin107"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 26.3852,45.0782 -7.3918,0.0406 0.0605,40.9597 4.9413,0.0735 M 26.6336,31.9752 15.9197,31.9874 4.96053,42.9057 4.72929,88.902 15.8713,100.187 22.2461,100.155 M 19.9969,85.0237 9.45926,96.1079 M 21.2436,80.1515 2.24794,79.9894 M 20.0341,51.7425 3.65188,51.6701 M 19.8942,45.979 9.00513,36.1311 M 25.7197,46.0024 25.4748,30.6419"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 2" />
+      <path
+         d="m 22.9709,93.1535 h 0.1498 l 1.1574,3e-4 1.1494,0.0017 1.1554,0.0037"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun65"
+         inkscape:label="AutoSatin Running Stitch 3" />
+      <path
+         id="autosatin108"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 26.8335,100.132 -4.5874,0.023 M 26.3323,86.1867 23.9952,86.152 m 0.9622,-0.9081 -0.0667,16.2171"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 4" />
+      <path
+         id="autosatin109"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 23.8624,100.132 10.9622,0.055 11.142,-11.285 -0.0294,-5.8527 m -21.5736,3.1374 7.2784,-0.1082 0.0073,-4.9118 m -5.9108,4.0772 0.0667,16.2171 M 30.6989,85.0237 41.2366,96.1079 M 23.9374,100.83 24.4887,85.4879"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 5" />
+      <path
+         d="m 38.7934,82.1616 -2e-4,-0.0536 -0.0038,-1.1392 -0.0035,-1.1472 -0.002,-1.1512 -3e-4,-0.1208 v 0 l -0.0018,-1.0304 -0.002,-1.1512 -0.0021,-1.1512 -5e-4,-0.2791 v 0 l -0.0015,-0.8721 -0.002,-1.1512 -0.0021,-1.1512 -8e-4,-0.4375 v 0 l -0.0012,-0.7137 -0.0021,-1.1511 -0.002,-1.1512 -0.0011,-0.5959 v 0 l -9e-4,-0.5553 -0.0021,-1.1512 -0.002,-1.1512 -0.0014,-0.7543 v 0 l -7e-4,-0.3969 -0.002,-1.1512 -0.002,-1.1512 -0.0017,-0.9127 v 0 l -4e-4,-0.2385 -0.002,-1.1512 -0.0021,-1.1512 -0.0018,-1.071 v 0 l -2e-4,-0.0802 -0.002,-1.1512 -0.0021,-1.1512 -0.002,-1.1512 -10e-5,-0.0782 v 0 l -0.0019,-1.073 -0.003,-1.1501 -0.0037,-1.1533 -7e-4,-0.2355 v 0 l -0.0029,-0.9178 -0.0037,-1.1533 -0.0037,-1.1533 -0.0591,-0.383 v 0 l -0.1134,-0.7347 -0.6194,-0.9658 -0.6193,-0.9658 -0.3099,-0.4831 v 0 l -0.3095,-0.4826 -0.6193,-0.9658 -0.8965,-0.7016 -0.633,-0.4077 v 0 L 34.2113,40.1278 33.2496,39.5083 32.2879,38.8889 31.4021,38.595 v 0 L 31.2476,38.5437 30.1003,38.541 28.953,38.5383 27.8057,38.5356 h -0.0072 v 0 l -1.14,-0.0027 -1.1473,-0.0027 -1.1349,-0.003 -0.1898,-5e-4"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun66"
+         inkscape:label="AutoSatin Running Stitch 6" />
+      <path
+         id="autosatin110"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 24.3107,45.0782 7.3918,0.0406 -0.0532,36.0479 m -7.587,-49.1915 10.7138,0.0122 10.9593,10.9183 0.2018,40.1436 M 29.4522,80.1515 48.4479,79.9894 M 30.6618,51.7425 47.044,51.6701 M 30.8016,45.979 41.6908,36.1311 m -16.7146,9.8713 0.2449,-15.3605"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 7" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-P"
+     style="display:none"
+     id="g1720">
+    <g
+       inkscape:label="Auto-Satin"
+       id="g100398">
+      <path
+         id="autosatin111"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 4.86936,44.9319 34.03334,0.082 8e-4,3.9538 M 4.97232,31.882 l 36.04388,0.0454 12.1322,11.0971 -5e-4,1.3782 m -15.1704,1.5029 8.5604,-10.475 M 32.4338,46.0662 34.7569,29.4132 M 6.24167,30.7366 6.43192,46.0733"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 1" />
+      <path
+         d="m 46.0257,46.7923 -3e-4,1.1043 -2e-4,1.2113 -2e-4,1.2113 -10e-5,0.2434 v 0 l -2e-4,0.9679 -2e-4,1.1541 -2e-4,1.2027 -10e-5,0.4455 v 0 l -1e-4,0.7572 -3e-4,1.2027 -2e-4,1.2027 -1e-4,0.6077 v 0 l -10e-5,0.595 -0.6168,1.0173 -0.6735,0.9923 -0.4415,0.6506 v 0 l -0.2319,0.3417 -0.6734,0.9924 -0.9555,0.7131 -0.8498,0.4589 v 0 l -0.1946,0.1052 -1.0423,0.5473 -1.0422,0.5473 -1.0423,0.5473 -0.0161,0.0064 v 0 l -1.0717,0.4239 -1.1838,0.0047 -1.1838,0.0047 -0.2501,0.001 v 0 l -0.9337,0.0036 -1.1837,0.0047 -1.1838,0.0047 -0.4691,0.0018 v 0 l -0.7147,0.0028 -1.1838,0.0047 -1.1838,0.0047 -0.6879,0.0027 v 0 l -0.4959,0.002 -1.1803,0.0052 -1.1802,0.006 -0.9138,0.0047"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun67"
+         inkscape:label="AutoSatin Running Stitch 2" />
+      <path
+         d="m 18.2354,65.6635 -10e-5,-0.8097 -2e-4,-1.15 -10e-5,-1.15 v -0.4752 0 l -10e-5,-0.6748 -2e-4,-1.15 -10e-5,-1.15 -10e-5,-0.6102 v 0 -0.5398 l -10e-5,-1.15 -2e-4,-1.15 -10e-5,-0.7452 v 0 -0.4048 l -10e-5,-1.15 -2e-4,-1.15 -10e-5,-0.8801 v 0 -0.2699 l -10e-5,-1.15 -2e-4,-1.15 -10e-5,-1.0151 v 0 -0.1349 l -10e-5,-1.15 -2e-4,-1.15 -10e-5,-1.15"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun68"
+         inkscape:label="AutoSatin Running Stitch 3" />
+      <path
+         id="autosatin112"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 24.4542,44.1538 0.0025,21.85 m -12.4451,-21.85 0.0025,21.85 m 13.0623,-21.75 H 11.3895"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 4" />
+      <path
+         d="m 18.2354,65.6635 v 0.3403 l 10e-5,1.15 2e-4,1.15 10e-5,0.9447 v 0 0.2053 l 10e-5,1.15 2e-4,1.15 10e-5,1.0796 v 0 0.0704 l 10e-5,1.15 10e-5,1.15 2e-4,1.15 v 0.0646 0 l 10e-5,1.0854 10e-5,1.15 2e-4,1.15 v 0.1995 0 l 1e-4,0.9505 10e-5,1.15 2e-4,1.15 v 0.3345 0 l 10e-5,0.8155 10e-5,1.15 2e-4,1.15 v 0.4694"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun69"
+         inkscape:label="AutoSatin Running Stitch 5" />
+      <path
+         d="m 18.4705,92.8714 -0.7853,-0.0059 -1.15,-0.0086 -1.1499,-0.0086 -0.2735,-0.0021 v 0 l -0.8765,-0.0066 -1.15,-0.0086 -1.1499,-0.0087 -0.1823,-0.0013 v 0 L 10.7854,92.8137 9.63544,92.8051 8.48547,92.7964 8.39431,92.7957 v 0 L 7.3355,92.7878 6.18554,92.7791 5.03557,92.7705"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun70"
+         inkscape:label="AutoSatin Running Stitch 6" />
+      <path
+         id="autosatin113"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 5.03557,99.6362 18.8352,99.7399 M 5.03557,85.9048 18.8352,86.0085 M 5.13557,100.323 V 85.219"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 7" />
+      <path
+         d="m 18.4705,92.8714 0.3647,0.0028 1.1499,0.0086 1.15,0.0087 0.6942,0.0052 v 0 l 0.4558,0.0034 1.1499,0.0087 1.15,0.0086 0.603,0.0045 v 0 l 0.547,0.0041 1.15,0.0087 1.1499,0.0086 0.5119,0.0039 v 0 l 0.6381,0.0048 1.15,0.0086 1.1499,0.0086 0.4207,0.0032"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun71"
+         inkscape:label="AutoSatin Running Stitch 8" />
+      <path
+         id="autosatin114"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 31.9055,99.8381 18.8352,99.7399 M 31.9055,86.1067 18.8352,86.0085 m 0.1,14.4185 V 85.3227"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 9" />
+      <path
+         id="autosatin115"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 12.0165,87.1732 12.0141,66.0038 m 12.445,21.1694 -0.0024,-21.1694 m 0.6222,0.1 H 11.392"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 10" />
+      <path
+         id="autosatin116"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 23.2684,73.1214 40.8158,73.1102 53.142,61.8123 53.1479,44.4027 m -29.9295,14.6754 15.6869,-0.1544 -0.0018,-9.956 m -13.2057,9.2329 0.2081,16.1991 m 11.6957,-16.1254 9.8457,11.29 M 37.8552,51.5906 54.2441,51.5447"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 11" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-Q"
+     style="display:none"
+     id="g1724">
+    <g
+       inkscape:label="Auto-Satin"
+       id="g105352">
+      <path
+         d="m 12.0437,49.9936 10e-5,0.2097 7e-4,1.1414 5e-4,1.1474 10e-5,1.1563 v 0.0879 0 l 10e-5,1.0685 10e-5,1.1563 1e-4,1.1564 v 0.3615 0 l 10e-5,0.7948 10e-5,1.1563 v 1.1564 l 10e-5,0.6353 v 0 0.521 l 10e-5,1.1564 10e-5,1.1563 10e-5,0.909 v 0 0.2474 l 10e-5,1.1563 1e-4,1.1564 v 1.1563 l 10e-5,0.0263 v 0 1.13 l 10e-5,1.1564 10e-5,1.1563 v 0.3001 0 l 10e-5,0.8563 10e-5,1.1563 10e-5,1.1564 v 0.5737 0 0.5826 l 1e-4,1.1564 10e-5,1.1563 6e-4,0.8474 v 0 l 2e-4,0.2997 7e-4,1.1466 8e-4,1.1466 8e-4,1.1466 v 0.0033 0 l 7e-4,1.1433 8e-4,1.1467 0.6303,0.9494 0.176,0.259 v 0 l 0.4658,0.6856 0.6418,0.9447 0.6532,0.9471 0.4181,0.4595 v 0 l 0.3479,0.3824 0.9073,0.7007 0.9074,0.7007 0.7384,0.5702 v 0 l 0.169,0.1304 1.0916,0.1837 1.1341,0.0089 1.134,0.0089 0.1541,0.0012 v 0 l 0.98,0.0077 1.1341,0.0089 1.1341,0.0089 0.4945,0.0039 v 0 l 0.6396,0.005 1.1577,0.0084 1.1406,0.008 0.8047,0.0057 v 0 l 0.3359,0.0023 0.9992,-0.4493 0.917,-0.7033 0.9169,-0.7033"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun72"
+         inkscape:label="AutoSatin Running Stitch 1" />
+      <path
+         id="autosatin117"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 30.5714,69.3583 17.2961,4.7091 M 30.4825,52.7626 47.0915,52.965 M 31.0678,46.0913 41.3283,35.6816 M 20.3032,46.2435 9.14655,36.7152 M 20.0533,52.4233 2.58904,52.1713 M 20.1698,79.4253 3.00941,78.8189 M 19.9345,84.5975 9.3095,94.6195 M 22.5755,84.5862 30.157,101.182 M 38.0299,96.5051 34.8545,100.223 16.2028,100.05 4.99724,89.0473 4.93704,42.9425 15.9275,32.1773 l 19.4272,-0.1564 10.6449,10.829 0.1577,41.5458 m -19.6374,1.3062 -7.4171,-0.0027 0.0465,-40.5976 12.745,0.0202 -0.0097,28.9547"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 2" />
+      <path
+         d="m 33.6381,82.7948 -0.2099,-0.2072 -0.8115,-0.8012 -0.4842,-1.0592 -0.3458,-0.963 v 0 L 31.7385,79.6301 31.3446,78.533 31.0881,77.4156 30.8267,76.2768 v 0 l -0.0094,-0.041 -0.2708,-1.1798 -0.3111,-1.1639 -0.4471,-1.0768"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun73"
+         inkscape:label="AutoSatin Running Stitch 3" />
+      <path
+         id="autosatin118"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 23.7743,74.9873 36.5871,73.3107 M 24.1246,82.3394 38.4525,74.7856 M 26.4055,88.6781 41.8092,78.4045 m -9.8943,16.7189 17.5545,-9.716 M 34.52,96.8537 54.3156,94.2773 M 34.6675,72.4145 52.9923,89.8301 52.9754,99.791 M 24.9092,73.2161 25.1421,85.9917 39.0417,100.093"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 4" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-R"
+     style="display:none"
+     id="g1728">
+    <g
+       inkscape:label="Auto-Satin"
+       id="g111513">
+      <path
+         id="autosatin119"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 4.89723,44.9671 19.3632,45.0074 M 5.0307,31.9778 21.1112,31.9921 m -15.43831,-1.313 0.15286,15.559"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 1" />
+      <path
+         d="m 19.66,38.4988 0.5772,10e-4 1.1761,0.0021 1.1762,0.0021 0.7445,0.0013 v 0 l 0.4316,8e-4 1.1761,0.002 1.1761,0.0021 0.8902,0.0016 v 0 l 0.286,5e-4 1.1761,0.0021 1.1761,0.0021 1.0358,0.0018 v 0 l 0.1403,3e-4 1.1991,0.002 1.1733,0.0019 1.1614,0.0018 v 0 h 0.0119 l 1.1734,0.0019 1.1733,0.0018 1.1733,0.0019 0.1402,0.0232 v 0 l 0.9576,0.1585 1.0052,0.5665 1.0053,0.5666 0.3446,0.1942 v 0 l 0.6606,0.3723 1.0052,0.5666 0.6483,1.0157 0.2978,0.4705 v 0 l 0.3239,0.5118 0.6216,0.9823 0.6217,0.9822 0.354,0.6538 v 0 l 0.1941,0.3583 -0.0045,1.148 -0.0045,1.1479 -0.0038,0.9706 v 0 l -7e-4,0.1773 -0.0045,1.1479 -0.0045,1.1479 -0.0046,1.1753 -10e-5,0.0256 v 0 l -0.0044,1.1263 -0.0046,1.1519 -0.0045,1.1519 -9e-4,0.2439 v 0 l -0.0036,0.9081 -0.0045,1.1519 -0.4509,1.0511 -0.2563,0.3942 v 0 l -0.3965,0.6096 -0.634,1.0202 -0.6373,1.0168 -0.5293,0.1329 v 0 l -0.5656,0.1421 h -1.2069 -1.207 -0.6769 v 0 h -0.53 -1.2069 -1.1761 -0.761 v 0 h -0.3981 -1.1592 -1.1592 -0.9575 v 0 H 31.908 30.7489 29.5897 28.4356 v 0 h -0.0051 -1.1591 -1.1486 -1.1454 -0.2158"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun74"
+         inkscape:label="AutoSatin Running Stitch 2" />
+      <path
+         id="autosatin120"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 24.7176,67.1894 H 47.6879 L 52.9966,62.0032 53.1141,43.0871 42.2352,32.0109 21.1112,31.9921 m 3.6945,26.806 h 14.237 L 39.0167,45.0622 19.3632,45.0074 m 7.6295,12.1704 -0.1392,11.067 m 7.1844,-11.2261 6.1705,11.4671 M 37.3819,56.1445 52.2272,64.7447 M 38.1084,52.1642 54.0598,52.3307 m -15.6665,-6.4641 9.9316,-9.6643 m -18.6763,9.9881 4.0699,-16.5206"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 3" />
+      <path
+         id="autosatin121"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 12.019,44.2975 V 68.6886 M 25.765,44.2975 v 24.3911 m 0.6873,-0.1 H 11.3317"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 4" />
+      <path
+         d="m 18.892,69.2589 v 0.5797 1.15 1.15 0.6863 0 0.4637 1.15 1.15 0.8022 0 0.3478 1.15 1.15 0.9181 0 0.2319 1.15 1.15 1.0341 0 0.1159 1.15 1.15 1.15"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun75"
+         inkscape:label="AutoSatin Running Stitch 5" />
+      <path
+         d="m 18.4158,93.0514 -0.7036,-6e-4 -1.15,-0.0012 -1.15,-0.0011 -0.3348,-3e-4 v 0 l -0.8152,-8e-4 -1.15,-0.0012 -1.15,-0.0011 -0.2232,-2e-4 v 0 l -0.9268,-9e-4 -1.15,-0.0011 -1.15,-0.0012 -0.1116,-1e-4 v 0 l -1.0384,-0.001 -1.15,-0.0011 -1.15,-0.0011"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun76"
+         inkscape:label="AutoSatin Running Stitch 6" />
+      <path
+         id="autosatin122"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 5.0622,100.022 13.8,0.014 m -13.8,-13.9817 13.8,0.0135 m -13.7,14.6532 V 85.356"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 7" />
+      <path
+         d="m 18.4158,93.0514 0.4464,5e-4 1.15,0.0011 1.15,0.0011 0.592,6e-4 v 0 l 0.558,6e-4 1.15,0.0011 1.15,0.0011 0.4804,5e-4 v 0 l 0.6696,6e-4 1.15,0.0012 1.15,0.0011 0.3688,4e-4"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun77"
+         inkscape:label="AutoSatin Running Stitch 8" />
+      <path
+         id="autosatin123"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 28.431,100.045 -9.5688,-0.009 M 28.431,86.0772 18.8622,86.0678 m 0.1,14.6662 V 85.3695"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 9" />
+      <path
+         id="autosatin124"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 12.019,87.0886 v -18.4 m 13.746,18.4 v -18.4 m 0.6873,18.3 H 11.3317"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 10" />
+      <path
+         id="autosatin125"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 37.3285,84.613 54.496,84.6882 M 37.284,76.1428 53.0121,68.1636 m -16.4959,5.7866 4.9353,-9.7329 m -13.6507,-0.0209 -0.1803,9.2659 m -2.9332,-0.4618 14.2088,0.0197 -0.0285,14.097 m -14.2505,-21.6933 23.6514,0.0318 4.9167,4.8916 -0.08,16.6356"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 11" />
+      <path
+         d="m 46.7684,93.0482 -0.8152,-8e-4 -1.15,-0.0012 -1.15,-0.0011 -0.2232,-2e-4 v 0 l -0.9268,-9e-4 -1.15,-0.0011 -1.15,-0.0012 -0.1116,-1e-4 v 0 l -1.0384,-0.001 -1.15,-0.0011 -1.15,-0.0011"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun78"
+         inkscape:label="AutoSatin Running Stitch 12" />
+      <path
+         id="autosatin126"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 36.7532,100.022 23.3688,0.023 M 36.7532,86.0543 60.122,86.0772"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 13" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-S"
+     style="display:none"
+     id="g1732">
+    <path
+       id="path114389"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 20.247806,79.675315 -16.2073828,0.0069 M 19.920567,84.953723 9.3692588,94.900071 m 21.7750152,-9.702219 9.887108,9.944385 M 31.183875,73.75763 40.156957,63.055104 M 26.162234,58.131766 25.876267,73.853911 M 19.615538,58.550536 9.8049109,68.268606 M 19.57357,45.831228 9.2862421,36.739819 m 21.9474969,8.993622 9.710509,-9.137479 m -10.009314,14.362229 16.784351,0.0031 M 45.985804,51.891966 45.985046,42.865765 35.008437,32.133456 15.772525,32.039854 4.9876941,43.1117 4.9171369,61.979926 15.919693,73.073587 l 15.999537,0.02586 -0.01998,12.834525 -12.773873,0.0085 -0.123998,-6.928606 m 13.050114,-27.05846 0.02398,-6.937063 -13.095293,0.0052 -0.104332,14.086395 15.96654,-0.134708 11.252037,11.213126 -0.05012,18.934688 -10.928691,10.953436 -19.073767,0.0678 -11.1528279,-11.357093 0.0633,-9.70077"
+       inkstitch:zigzag_spacing_mm="0.3"
+       inkstitch:satin_column="True"
+       inkstitch:contour_underlay="True" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-T"
+     style="display:none"
+     id="g1736">
+    <g
+       inkscape:label="Auto-Satin"
+       id="g119138">
+      <path
+         id="autosatin127"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 4.76556,52.0143 4.90583,31.8834 32.0969,31.9296 M 19.069,51.9322 19.1124,45.1558 33.1034,45.1261 M 23.5873,46.1326 13.3554,30.234 M 20.4319,51.0884 2.72117,46.6255 M 19.7848,51.8281 4.05108,51.9184"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 1" />
+      <path
+         d="m 31.964,44.1145 v 1.15 1.15 1.15 0.1278 0 1.0222 1.15 1.15 0.2556 0 0.8944 1.15 1.15 0.3834 0 0.7666 1.15 1.15 0.5112 0 0.6388 1.15 1.15 0.639 0 0.511 1.15 1.15 0.7668 0 0.3832 1.15 1.15 0.8946 0 0.2554 1.15 1.15 1.0224 0 0.1276 1.15 1.15 1.15 1e-4 0 1.1499 1.15 1.15 0.1279 0 1.0221 1.15 1.15 0.2557 0 0.8943 1.15 1.15 0.3835"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun79"
+         inkscape:label="AutoSatin Running Stitch 2" />
+      <path
+         d="m 32.4418,93.1006 -0.7533,0.0011 -1.1524,0.0015 -1.1523,0.0016 -0.2994,4e-4 v 0 l -0.853,0.0012 -1.1524,0.0016 -1.1524,0.0015 -0.1996,3e-4 v 0 l -0.9528,0.0013 -1.1524,0.0016 -1.1524,0.0016 -0.0998,1e-4 v 0 l -1.0526,0.0015 -1.1523,0.0015 -1.1524,0.0016"
+         style="fill:none;stroke:#000000;stroke-width:0.992983px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun80"
+         inkscape:label="AutoSatin Running Stitch 3" />
+      <path
+         id="autosatin128"
+         style="fill:none;stroke:#000000;stroke-width:0.992983px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 19.0123,100.131 13.8,-0.019 M 19.0122,86.1067 32.8696,86.0877 M 19.1123,100.832 19.1122,85.4053"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 4" />
+      <path
+         d="m 32.4418,93.1006 0.3991,-5e-4 1.1524,-0.0016 1.1524,-0.0016 0.6535,-9e-4 v 0 l 0.4989,-7e-4 1.1524,-0.0015 1.1524,-0.0016 0.5536,-8e-4 v 0 l 0.5988,-8e-4 1.1523,-0.0016 1.1524,-0.0016 0.4539,-6e-4 v 0 l 0.6985,-9e-4 1.1524,-0.0016 1.1524,-0.0016 0.3541,-5e-4"
+         style="fill:none;stroke:#000000;stroke-width:0.992983px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun81"
+         inkscape:label="AutoSatin Running Stitch 5" />
+      <path
+         id="autosatin129"
+         style="fill:none;stroke:#000000;stroke-width:0.992983px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 45.8156,100.095 -13.0033,0.017 M 45.927,86.0699 32.8696,86.0877 m 0.0398,14.7263 0.063,-15.4276"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 6" />
+      <path
+         id="autosatin130"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 24.9182,87.048 V 44.1145 M 39.0098,87.048 V 44.1145"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 7" />
+      <path
+         id="autosatin131"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 33.1034,45.1261 12.886,-0.0273 -0.0757,6.6174 M 32.0969,31.9296 59.9748,31.977 60.0906,51.9081 M 44.9812,50.0271 61.4697,44.4543 M 41.7236,46.411 48.8443,30.2854 M 33.2537,45.7857 32.1466,31.27"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 8" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-U"
+     style="display:none"
+     id="g1740">
+    <g
+       inkscape:label="Auto-Satin"
+       id="g125616">
+      <path
+         id="autosatin132"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 4.82814,44.9787 20.9276,45.1088 M 4.82814,31.8779 20.9276,32.008 M 4.92813,45.6345 V 31.2236"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 1" />
+      <path
+         d="m 19.5405,38.5472 0.2371,0.0019 1.15,0.0093 1.15,0.0093 1.141,0.0092 v 0 l 0.0089,10e-5 1.15,0.0093 1.15,0.0093 1.1499,0.0093 0.2193,0.0018"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun82"
+         inkscape:label="AutoSatin Running Stitch 2" />
+      <path
+         id="autosatin133"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 26.8967,32.0563 20.9276,32.008 m 5.9691,13.1491 -5.9691,-0.0483 m 0.1,0.6559 V 31.3538"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 3" />
+      <path
+         id="autosatin134"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 37.7846,46.7103 16.5259,-0.1301 m -16.4521,32.2216 16.0431,-0.05 m -15.8749,6.543 10.0892,9.7784 m -31.3963,0.098 9.1599,-10.2586 M 10.7775,78.9007 26.234,78.9679 M 10.8851,46.2464 26.3703,46.1588 m -1.476,-1.8702 0.1156,41.65 13.9065,0.1371 0.0441,-41.8425 m -26.9793,-0.0075 0.0055,44.7874 10.9389,11.0189 19.0773,0.07 11.0042,-11.281 -0.0213,-44.6907"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 4" />
+      <path
+         d="m 44.2896,38.4877 -0.4564,-0.0036 -1.15,-0.0093 -1.1499,-0.0093 -0.9218,-0.0075 v 0 l -0.2282,-0.0018 -1.15,-0.0093 -1.1499,-0.0093 -1.15,-0.0093"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun83"
+         inkscape:label="AutoSatin Running Stitch 5" />
+      <path
+         id="autosatin135"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 36.9334,44.9787 59.002,45.1571 M 36.9334,31.8779 59.002,32.0563"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 6" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-V"
+     style="display:none"
+     id="g1744">
+    <g
+       inkscape:label="Auto-Satin"
+       id="g130276">
+      <path
+         id="autosatin136"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 4.89018,44.6433 18.6901,44.703 M 4.89018,31.9151 18.6901,31.9748 M 4.99018,45.2802 V 31.2791"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 1" />
+      <path
+         d="m 18.6451,38.3387 0.045,2e-4 1.1499,0.005 1.15,0.0049 1.0938,0.0048 v 0 l 0.0562,2e-4 1.15,0.005 1.15,0.005 1.0825,0.0047 v 0 l 0.0675,2e-4 1.15,0.005 1.15,0.005 1.0712,0.0046"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun84"
+         inkscape:label="AutoSatin Running Stitch 2" />
+      <path
+         id="autosatin137"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 28.9612,32.0192 18.6901,31.9748 M 28.9612,44.7475 18.6901,44.703 m 0.1,0.6369 V 31.3388"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 3" />
+      <path
+         id="autosatin138"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 23.9013,97.6907 H 34.1494 M 17.3259,70.4006 H 32.4191 M 10.7195,46.576 27.3318,46.8137 m -1.6992,-2.9384 7.4071,31.1286 V 100.118 M 11.5694,43.813 26.0362,100.154"
+         inkstitch:satin_column="True"
+         sodipodi:nodetypes="ccccccccccc"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 4" />
+      <path
+         id="autosatin139"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 38.2123,100.154 52.679,43.813 M 31.2146,100.118 V 75.0039 l 7.4013,-31.1286 m 1.7312,53.8154 H 30.1049 M 46.9226,70.4006 H 31.8294 M 53.5289,46.576 36.9166,46.8137"
+         inkstitch:satin_column="True"
+         sodipodi:nodetypes="ccccccccccc"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 5" />
+      <path
+         d="m 46.2086,38.3238 -1.1163,-0.0048 -1.15,-0.005 -1.1499,-0.0049 -0.0225,-1e-4 v 0 l -1.1275,-0.0049 -1.15,-0.005 -1.15,-0.005 h -0.0113 v 0 l -1.1387,-0.0049 -1.15,-0.005 -1.15,-0.005"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun85"
+         inkscape:label="AutoSatin Running Stitch 6" />
+      <path
+         id="autosatin140"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 35.8924,44.6433 24.0711,0.1042 M 35.8924,31.9151 59.9635,32.0192"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 7" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-W"
+     style="display:none"
+     id="g1748">
+    <g
+       inkscape:label="Auto-Satin"
+       id="g135904">
+      <path
+         id="autosatin141"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 4.9932,44.7632 h 13.8 m -13.8,-12.7059 h 13.8 m -13.7,13.3412 V 31.422"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 1" />
+      <path
+         d="m 18.0354,38.4102 h 0.7578 1.15 1.15 0.2027 v 0 h 0.9473 1.15 1.15 0.0133 v 0 h 1.1367 1.15 0.9738"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun86"
+         inkscape:label="AutoSatin Running Stitch 2" />
+      <path
+         id="autosatin142"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 27.817,32.0573 h -9.0238 m 9.0238,12.7059 h -9.0238 m 0.1,0.6353 V 31.422"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 3" />
+      <path
+         id="autosatin143"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 17.8645,84.9116 H 28.8667 M 13.8163,63.739 H 29.2409 M 10.3883,46.2926 h 15.3589 m -1.3023,-2.2698 3.8262,18.9479 -0.3176,25.1602 M 11.6221,43.9591 19.374,88.3008"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 4" />
+      <path
+         d="m 28.4352,93.5366 h -0.2027 -1.15 -1.15 -0.7578 v 0 h -0.3922 -1.15 -1.15 -0.5684 v 0 h -0.5816 -1.15 -1.15 -0.3789 v 0 h -0.7711 -1.15 -1.15 -0.1895 v 0 h -0.9605 -1.15 -1.15"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun87"
+         inkscape:label="AutoSatin Running Stitch 5" />
+      <path
+         id="autosatin144"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 12.1325,99.8896 h 17.25 m -17.25,-12.7059 h 17.25 m -17.15,13.3413 V 86.5484"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 6" />
+      <path
+         d="m 28.4352,93.5366 h 0.9473 1.15 1.15 0.0133 v 0 h 1.1367 1.15 0.9738"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun88"
+         inkscape:label="AutoSatin Running Stitch 7" />
+      <path
+         id="autosatin145"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 34.9563,87.1837 h -5.5738 m 5.5738,12.7059 h -5.5738 m 0.1,0.6354 V 86.5484"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 8" />
+      <path
+         id="autosatin146"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 26.6563,88.4986 27.0235,63.2038 36.9362,38.982 M 31.0863,88.5718 40.008,64.7958 V 38.8053 m -14.2174,42.204 h 9.3276 M 28.2769,57.4843 H 41.7782 M 34.4501,40.4281 h 6.617"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 9" />
+      <path
+         id="autosatin147"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 52.794,81.0093 h -9.3275 m 6.8412,-23.525 H 36.8064 m 7.3282,-17.0562 h -6.6171 m 1.0591,-1.6228 v 25.9905 l 8.9218,23.776 m -5.8499,-49.5898 9.9126,24.2218 0.3672,25.2948"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 10" />
+      <path
+         d="m 49.7495,93.5366 h -0.7711 -1.15 -1.15 -0.1895 v 0 h -0.9605 -1.15 -1.15"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun89"
+         inkscape:label="AutoSatin Running Stitch 11" />
+      <path
+         id="autosatin148"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 43.2284,99.8896 h 6.9 m -6.9,-12.7059 h 6.9 m -6.8,13.3413 V 86.5484"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 12" />
+      <path
+         d="m 49.7495,93.5366 h 0.3789 1.15 1.15 0.5816 v 0 h 0.5684 1.15 1.15 0.3922 v 0 h 0.7578 1.15 1.15 0.2027 v 0 h 0.9473 1.15 1.15 0.0133 v 0 h 1.1367 1.15 0.9738"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun90"
+         inkscape:label="AutoSatin Running Stitch 13" />
+      <path
+         id="autosatin149"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 66.0522,99.8896 H 50.1284 M 66.0522,87.1837 H 50.1284 m 0.1,13.3413 V 86.5484"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 14" />
+      <path
+         id="autosatin150"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 58.0831,88.3008 7.752,-44.3417 M 49.5036,88.1309 49.186,62.9707 53.0123,44.0228 m 6.5803,40.8888 H 48.5904 M 63.6408,63.739 H 48.2162 M 67.0688,46.2926 H 51.71"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 15" />
+      <path
+         d="m 60.0297,38.4102 h -0.5817 -1.15 -1.15 -0.3789 v 0 h -0.7711 -1.15 -1.15 -0.1894 v 0 h -0.9606 -1.15 -1.15"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun91"
+         inkscape:label="AutoSatin Running Stitch 16" />
+      <path
+         id="autosatin151"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 50.248,44.7632 H 73.0719 M 50.248,32.0573 h 22.8239"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 17" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-X"
+     style="display:none"
+     id="g1752">
+    <g
+       inkscape:label="Auto-Satin"
+       id="g144533">
+      <path
+         id="autosatin152"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 4.92182,45.1331 18.7218,45.1343 M 4.92182,31.9588 18.7218,31.96 M 5.02182,45.7918 V 31.3001"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 1" />
+      <path
+         d="m 18.0363,38.5471 0.6855,10e-5 1.15,1e-4 1.15,1e-4 h 0.2932 v 0 l 0.8568,10e-5 1.15,1e-4 1.15,10e-5 h 0.1218 v 0 l 1.0282,1e-4 1.15,10e-5 1.1004,1e-4"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun92"
+         inkscape:label="AutoSatin Running Stitch 2" />
+      <path
+         id="autosatin153"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 27.8722,31.9609 -9.1504,-9e-4 m 9.1504,13.1752 -9.1504,-9e-4 m 0.1,0.6588 V 31.3013"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 3" />
+      <path
+         id="autosatin154"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 24.6998,44.3251 7.5756,12.0487 M 11.2843,44.1653 25.2694,66.6103"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 4" />
+      <path
+         d="m 33.966,62.9315 -0.2655,0.3983 -0.6333,0.9503 -0.6333,0.9503 -0.5347,0.8022 v 0 l -0.0986,0.148 -0.6334,0.9503 -0.6333,0.9502 -0.6333,0.9503 -0.0682,0.1024"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun93"
+         inkscape:label="AutoSatin Running Stitch 5" />
+      <path
+         d="m 35.1322,70.509 0.6672,0.9456 0.6671,0.9457 0.6672,0.9457 0.0045,0.0064 v 0 l 0.6626,0.9392 0.6672,0.9457 0.6672,0.9457 0.009,0.0128 v 0 l 0.6581,0.9329 0.6672,0.9456 0.6671,0.9457 0.0135,0.0192 v 0 l 0.6537,0.9265 0.6671,0.9456 0.6672,0.9457 0.018,0.0256 v 0 l 0.6491,0.9201 0.6672,0.9456 0.6672,0.9457 0.0225,0.032 v 0 l 0.6446,0.9137 0.6672,0.9457 0.6671,0.9456 0.0271,0.0384"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun94"
+         inkscape:label="AutoSatin Running Stitch 6" />
+      <path
+         d="m 45.9083,93.2131 h -0.6359 l -1.15,-1e-4 -1.15,-10e-5 -0.3427,-1e-4 v 0 h -0.8073 l -1.15,-1e-4 -1.15,-2e-4 H 39.351 v 0 l -0.9786,-1e-4 -1.15,-1e-4 -1.15,-1e-4"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun95"
+         inkscape:label="AutoSatin Running Stitch 7" />
+      <path
+         id="autosatin155"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 36.0724,99.7994 10.35,9e-4 m -10.35,-13.1752 10.35,9e-4 m -10.25,13.832 V 85.9664"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 8" />
+      <path
+         d="m 45.9083,93.2131 0.5141,1e-4 1.15,1e-4 1.15,10e-5 h 0.4645 v 0 l 0.6855,1e-4 1.15,1e-4 1.15,1e-4 h 0.2932 v 0 l 0.8568,1e-4 1.15,10e-5 1.15,1e-4 h 0.1218 v 0 l 1.0282,1e-4 1.15,1e-4 1.1004,10e-5"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun96"
+         inkscape:label="AutoSatin Running Stitch 9" />
+      <path
+         id="autosatin156"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 59.0228,99.8015 46.4224,99.8003 M 59.0228,86.6272 46.4224,86.626 m 0.1,13.833 V 85.9673"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 10" />
+      <path
+         id="autosatin157"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 40.1856,87.7476 31.6007,75.8179 M 54.1506,87.3911 38.6637,65.2"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 11" />
+      <path
+         d="m 29.8324,69.1338 -0.5651,0.8478 -0.6333,0.9503 -0.6333,0.9503 -0.2351,0.3527 v 0 l -0.3983,0.5975 -0.6333,0.9503 -0.6333,0.9502 -0.402,0.6031 v 0 l -0.2313,0.3472 -0.6333,0.9502 -0.6334,0.9503 -0.5688,0.8535 v 0 l -0.0645,0.0968 -0.6333,0.9502 -0.6333,0.9503 -0.6333,0.9502 -0.1024,0.1536 v 0 l -0.531,0.7967 -0.6333,0.9502 -0.6333,0.9503 -0.2692,0.4039 v 0 l -0.3641,0.5464 -0.6333,0.9502 -0.6334,0.9503 -0.436,0.6543"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun97"
+         inkscape:label="AutoSatin Running Stitch 12" />
+      <path
+         d="m 18.1707,93.2134 h -0.4645 l -1.15,-10e-5 -1.15,-1e-4 -0.5141,-1e-4 v 0 h -0.6359 l -1.15,-1e-4 -1.15,-10e-5 -0.3428,-1e-4 v 0 h -0.8072 l -1.15003,-1e-4 -1.15,-2e-4 H 8.3348 v 0 l -0.97863,-1e-4 -1.15,-1e-4 -1.15,-1e-4"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun98"
+         inkscape:label="AutoSatin Running Stitch 13" />
+      <path
+         id="autosatin158"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 5.05617,99.7994 18.8562,99.8006 M 5.05617,86.6251 18.8562,86.6263 M 5.15617,100.458 V 85.9664"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 14" />
+      <path
+         d="m 18.1707,93.2134 0.6855,1e-4 1.15,1e-4 1.15,1e-4 h 0.2931 v 0 l 0.8569,1e-4 1.15,10e-5 1.15,1e-4 h 0.1217 v 0 l 1.0283,1e-4 1.15,1e-4 1.1004,10e-5"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun99"
+         inkscape:label="AutoSatin Running Stitch 15" />
+      <path
+         id="autosatin159"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 28.0066,99.8015 -9.1504,-9e-4 m 9.1504,-13.1734 -9.1504,-9e-4 m 0.1,13.8327 V 85.9676"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 16" />
+      <path
+         id="autosatin160"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 10.981,87.5249 39.4707,44.2522 M 23.8819,87.9563 53.2631,44.3972"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 17" />
+      <path
+         d="m 45.9083,38.5468 h -0.6359 l -1.15,-10e-5 -1.15,-1e-4 -0.3427,-10e-5 v 0 l -0.8073,-1e-4 -1.15,-10e-5 -1.15,-1e-4 H 39.351 v 0 l -0.9786,-10e-5 -1.15,-1e-4 -1.15,-10e-5"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun100"
+         inkscape:label="AutoSatin Running Stitch 18" />
+      <path
+         id="autosatin161"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 36.0724,45.1331 22.9504,0.0021 M 36.0724,31.9588 59.0228,31.9609"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 19" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-Y"
+     style="display:none"
+     id="g1756">
+    <g
+       inkscape:label="Auto-Satin"
+       id="g152018">
+      <path
+         id="autosatin162"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 5.01744,44.8745 H 18.8174 M 5.01744,32.1101 H 18.8174 M 5.11744,45.5127 V 31.4719"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 1" />
+      <path
+         d="m 18.3723,38.4923 h 0.4451 1.15 1.15 0.5936 v 0 h 0.5564 1.15 1.15 0.4823 v 0 h 0.6677 1.15 1.15 0.371"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun101"
+         inkscape:label="AutoSatin Running Stitch 2" />
+      <path
+         id="autosatin163"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 28.3884,32.1101 h -9.571 m 9.571,12.7644 h -9.571 m 0.1,0.6382 V 31.4719"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 3" />
+      <path
+         id="autosatin164"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 23.3643,83.6225 H 34.182 M 21.0013,61.4657 H 34.8656 M 11.664,47.2359 H 29.26 M 25.3573,43.945 32.8516,57.2761 V 87.9564 M 11.2059,43.8173 25.9495,66.0681 26.0629,87.796"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 4" />
+      <path
+         d="M 29.1238,93.3465 H 28.21 27.06 25.91 25.7525 v 0 H 24.76 23.61 22.46 22.3812 v 0 H 21.31 20.16 19.01"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun102"
+         inkscape:label="AutoSatin Running Stitch 5" />
+      <path
+         id="autosatin165"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 19.01,99.7288 H 36.26 M 19.01,86.9643 H 36.26 M 19.11,100.367 V 86.3261"
+         inkstitch:satin_column="True"
+         sodipodi:nodetypes="cccc"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 6" />
+      <path
+         d="m 35.8663,93.3465 h 0.3937 1.15 1.15 0.6776 v 0 h 0.4724 1.15 1.15 0.5989 v 0 h 0.5511 1.15 1.15 0.5202"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun103"
+         inkscape:label="AutoSatin Running Stitch 7" />
+      <path
+         id="autosatin166"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 45.9802,86.9643 H 36.26 m 9.7202,12.7645 H 36.26 m 0.1,0.6382 V 86.3261"
+         inkstitch:satin_column="True"
+         sodipodi:nodetypes="cccc"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 8" />
+      <path
+         id="autosatin167"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 38.6518,87.796 38.7652,66.0681 53.5088,43.8173 M 31.8631,87.9564 V 57.2761 L 39.3574,43.945 m 1.993,39.6775 H 30.5326 M 43.7134,61.4657 H 29.8491 M 53.0506,47.2359 H 35.4547"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 9" />
+      <path
+         d="m 46.6524,38.4923 h -0.8161 -1.15 -1.15 -0.2226 v 0 h -0.9274 -1.15 -1.15 -0.1113 v 0 h -1.0387 -1.15 -1.15"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun104"
+         inkscape:label="AutoSatin Running Stitch 10" />
+      <path
+         id="autosatin168"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 36.6363,44.8745 H 60.0072 M 36.6363,32.1101 h 23.3709"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 11" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-Z"
+     style="display:inline"
+     id="g1760">
+    <g
+       inkscape:label="Auto-Satin"
+       id="g156981">
+      <path
+         id="autosatin169"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 4.81818,99.8914 6.95172,0.0282 m -7.0594,-13.224 5.9701,0.0289 M 7.02923,101.509 6.85293,85.2844"
+         inkstitch:satin_column="True"
+         sodipodi:nodetypes="cccccccccccccc"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 1" />
+      <path
+         d="m 12.1097,93.3259 0.2958,0.0013 1.1803,0.0052 1.1802,0.0052 1.0164,0.0045 v 0 l 0.1639,7e-4 1.1802,0.0053 1.1803,0.0052 1.1482,0.005 v 0 l 0.0321,2e-4 1.1802,0.0052 1.1803,0.0052 1.1802,0.0052 0.0999,4e-4 v 0 l 1.0804,0.0048 1.1802,0.0052 1.1803,0.0052 0.2318,10e-4 v 0 l 0.9485,0.0042 1.1802,0.0052 1.1803,0.0052 0.3637,0.0016 v 0 l 0.8165,0.0036 1.1803,0.0052 1.1802,0.0052 0.4957,0.0022 v 0 l 0.6519,0.0028 1.1356,0.0049 1.1356,0.0049 0.7495,0.0033 v 0 l 0.3861,0.0016 1.1356,0.0049 1.1356,0.0049 1.0154,0.0044 v 0 l 0.1203,5e-4 1.1356,0.0049 1.1356,0.0049 1.1725,0.0051 0.0954,-0.0521 v 0 l 0.7018,-0.383 0.0098,-1.1445 0.0097,-1.1445 0.005,-0.584 v 0 l 0.0047,-0.5604 0.0097,-1.1445 0.0098,-1.1445 0.007,-0.8232 v 0 l 0.0027,-0.3213 0.0097,-1.1445 0.0097,-1.1445 0.009,-1.0623 v 0 l 0.0011,-0.1331 0.0098,-1.1798 0.0097,-1.1799 0.0098,-1.1798"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun105"
+         inkscape:label="AutoSatin Running Stitch 2" />
+      <path
+         id="autosatin170"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 52.8767,79.1929 52.7439,100.086 11.7699,99.9196 M 39.0623,79.0958 38.9544,86.8616 10.6806,86.7245 M 30.836,85.4647 38.8349,102.356 M 36.9003,85.4567 53.4956,101.992 M 37.6793,80.7471 54.7178,85.7572"
+         inkstitch:satin_column="True"
+         sodipodi:nodetypes="cccccccccccccc"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 3" />
+      <path
+         id="autosatin171"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 4.17713,87.1309 36.5444,44.1794 M 20.6837,87.9342 53.2391,44.4509"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 4" />
+      <path
+         d="m 45.8259,38.581 -0.3116,-0.0014 -1.1802,-0.0052 -1.1803,-0.0052 -0.9366,-0.0041 v 0 L 41.9735,38.564 40.7933,38.5588 39.613,38.5536 38.6086,38.5492 v 0 L 38.4328,38.5484 37.2525,38.5432 36.0723,38.538 35,38.5333 v 0 l -0.108,-5e-4 -1.1802,-0.0052 -1.1803,-0.0052 -1.1401,-0.005 v 0 l -0.0402,-2e-4 -1.1802,-0.0052 -1.1803,-0.0052 -1.1802,-0.0052 -0.0277,-1e-4 v 0 L 26.6302,38.4964 25.45,38.4912 24.2697,38.486 l -0.0956,-4e-4 v 0 L 23.0854,38.4808 21.9498,38.4759 20.8142,38.471 20.5655,38.4699 v 0 l -0.8869,-0.0038 -1.1356,-0.0049 -1.1356,-0.0049 -0.4505,-0.002 v 0 l -0.6851,-0.0029 -1.1356,-0.0049 -1.1356,-0.005 -0.6523,-0.0028 v 0 l -0.5272,-0.0022 -0.8656,0.4051 -0.0106,1.1737 -0.0086,0.9519 v 0 l -0.002,0.2219 -0.0106,1.1738 -0.0106,1.1737 -0.0093,1.0391 v 0 l -0.0013,0.1347 -0.0105,1.1738 -0.0106,1.1737 -0.0102,1.1263 v 0 l -8e-4,0.0874 -0.0108,1.1737 -0.0108,1.1737 -0.0108,1.1737"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+         inkstitch:running_stitch_length_mm=""
+         id="autosatinrun106"
+         inkscape:label="AutoSatin Running Stitch 5" />
+      <path
+         id="autosatin172"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 50.7782,30.3976 50.9545,46.622 M 26.9714,46.4417 18.9726,29.55 M 20.9071,46.4497 4.31187,29.9145 M 20.1282,50.19 3.08962,46.1492 m 15.65548,5.6921 0.108,-6.7965 34.2438,0.166 M 4.93078,51.7442 5.06357,31.8206 52.9892,32.015"
+         inkstitch:satin_column="True"
+         inkstitch:zigzag_spacing_mm="0.3"
+         inkstitch:contour_underlay="True"
+         inkscape:label="AutoSatin 6" />
+    </g>
+  </g>
+</svg>
